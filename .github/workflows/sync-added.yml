@@ -1,0 +1,38 @@
+name: Sync Surge added.list to Mihomo added.yaml
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "surge/added.list"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate mihomo/added.yaml from surge/added.list
+        run: python tools/sync_added.py surge/added.list mihomo/added.yaml
+
+      - name: Commit & push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mihomo/added.yaml
+          git commit -m "chore: sync mihomo added.yaml from surge added.list"
+          git push
