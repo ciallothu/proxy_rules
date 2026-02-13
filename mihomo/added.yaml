@@ -1,5 +1,12 @@
 payload:
-- DOMAIN-SUFFIX,uscardforum.com
-- DOMAIN-SUFFIX,wireguard.com
-- DOMAIN-SUFFIX,wireshark.org
-- DOMAIN-SUFFIX,glavo.site
+  - DOMAIN-SUFFIX,wireguard.com
+  - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,neofeed.org
+  - DOMAIN-SUFFIX,wireshark.org
+  - DOMAIN-SUFFIX,proxifier.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-KEYWORD,wallesspku
+  - DOMAIN-SUFFIX,glavo.site
+  - DOMAIN-SUFFIX,thugroup.org
+  - DOMAIN-SUFFIX,itellyou.cn
+  - DOMAIN-SUFFIX,mcschematic.top
