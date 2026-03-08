@@ -16,6 +16,6 @@ payload:
   - DOMAIN-SUFFIX,sessionserver.mojang.com
   - DOMAIN-KEYWORD,minecraft
   - DOMAIN-KEYWORD,mojang
-  - DOMAIN-KEYWORD,xboxlive
+  - DOMAIN-KEYWORD,xbox
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-KEYWORD,microsoft
