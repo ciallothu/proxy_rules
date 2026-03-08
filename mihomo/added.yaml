@@ -18,3 +18,4 @@ payload:
   - DOMAIN-KEYWORD,mojang
   - DOMAIN-KEYWORD,xboxlive
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-KEYWORD,microsoft
