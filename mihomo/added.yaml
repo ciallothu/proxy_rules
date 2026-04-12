@@ -33,3 +33,4 @@ payload:
   - DOMAIN,www.7-eleven.com
   - DOMAIN,www.7now.com
   - DOMAIN-KEYWORD,grok
+  - DOMAIN-KEYWORD,alpine
