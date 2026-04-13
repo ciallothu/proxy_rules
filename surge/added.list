@@ -33,3 +33,5 @@ DOMAIN,www.7-eleven.com
 DOMAIN,www.7now.com
 DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,alpine
+DOMAIN-SUFFIX,letsbuildthe.cloud
+DOMAIN-SUFFIX,linuxcontainers.org
