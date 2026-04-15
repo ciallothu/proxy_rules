@@ -44,6 +44,8 @@ payload:
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,mirror.freedif.org
+  
   - PROCESS-NAME,org.lsposed.manager
   - PROCESS-NAME,com.sukisu.ultra
   - PROCESS-NAME-WILDCARD,com.android.vending*
