@@ -36,12 +36,6 @@ payload:
   - DOMAIN-KEYWORD,alpine
   - DOMAIN-SUFFIX,letsbuildthe.cloud
   - DOMAIN-SUFFIX,linuxcontainers.org
-  - PROCESS-NAME,org.lsposed.manager
-  - PROCESS-NAME,com.sukisu.ultra
-  - PROCESS-NAME-WILDCARD,com.android.vending*
-  - PROCESS-NAME-WILDCARD,com.google.android.gms*
-  - PROCESS-NAME-WILDCARD,com.google.android.gsf*
-  - PROCESS-NAME-WILDCARD,com.google.process.gservices*
   - DOMAIN-SUFFIX,mod.fileto.download
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
@@ -50,3 +44,9 @@ payload:
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,dl.google.com
+  - PROCESS-NAME,org.lsposed.manager
+  - PROCESS-NAME,com.sukisu.ultra
+  - PROCESS-NAME-WILDCARD,com.android.vending*
+  - PROCESS-NAME-WILDCARD,com.google.android.gms*
+  - PROCESS-NAME-WILDCARD,com.google.android.gsf*
+  - PROCESS-NAME-WILDCARD,com.google.process.gservices*
