@@ -37,7 +37,9 @@ payload:
   - DOMAIN-SUFFIX,letsbuildthe.cloud
   - DOMAIN-SUFFIX,linuxcontainers.org
   - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.android.vending:background
   - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.gms:unstable
   - PROCESS-NAME,com.google.android.gms.unstable
   - PROCESS-NAME,com.google.android.gms.persistent
   - PROCESS-NAME,com.google.android.gsf
