@@ -42,6 +42,9 @@ payload:
   - PROCESS-NAME,com.google.android.gms.persistent
   - PROCESS-NAME,com.google.android.gsf
   - PROCESS-NAME,com.google.process.gservices
+  - PROCESS-NAME,org.lsposed.manager
+  - PROCESS-NAME,com.sukisu.ultra
+  - DOMAIN-SUFFIX,mod.fileto.download
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,google.com
