@@ -45,10 +45,11 @@ payload:
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,mirror.freedif.org
-  
   - PROCESS-NAME,org.lsposed.manager
   - PROCESS-NAME,com.sukisu.ultra
   - PROCESS-NAME-WILDCARD,com.android.vending*
   - PROCESS-NAME-WILDCARD,com.google.android.gms*
   - PROCESS-NAME-WILDCARD,com.google.android.gsf*
   - PROCESS-NAME-WILDCARD,com.google.process.gservices*
+  - PROCESS-NAME-WILDCARD,com.microsoft.emmx*
+  - PROCESS-NAME-WILDCARD,com.tencent.mm*
