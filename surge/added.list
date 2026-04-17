@@ -52,3 +52,4 @@ PROCESS-NAME,com.google.android.gsf*
 PROCESS-NAME,com.google.process.gservices*
 PROCESS-NAME,com.microsoft.emmx*
 PROCESS-NAME,com.tencent.mm*
+PROCESS-NAME,com.android.chrome*
