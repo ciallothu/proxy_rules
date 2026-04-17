@@ -53,3 +53,4 @@ payload:
   - PROCESS-NAME-WILDCARD,com.google.process.gservices*
   - PROCESS-NAME-WILDCARD,com.microsoft.emmx*
   - PROCESS-NAME-WILDCARD,com.tencent.mm*
+  - PROCESS-NAME-WILDCARD,com.android.chrome*
