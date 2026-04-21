@@ -33,11 +33,6 @@ DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN,www.7-eleven.com
 DOMAIN,www.7now.com
 DOMAIN-KEYWORD,grok
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,www.bing.com
 DOMAIN-KEYWORD,alpine
 DOMAIN-SUFFIX,letsbuildthe.cloud
 DOMAIN-SUFFIX,linuxcontainers.org
@@ -60,4 +55,3 @@ PROCESS-NAME,com.google.process.gservices*
 PROCESS-NAME,com.tencent.mm:push
 PROCESS-NAME,com.android.chrome*
 PROCESS-NAME,com.box.app
-PROCESS-NAME,com.microsoft.emmx
