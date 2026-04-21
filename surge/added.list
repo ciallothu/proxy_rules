@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,board.zash.run.place
 DOMAIN-SUFFIX,mirror.freedif.org
 PROCESS-NAME,org.lsposed.manager
 PROCESS-NAME,com.sukisu.ultra
@@ -55,6 +56,7 @@ PROCESS-NAME,com.android.vending*
 PROCESS-NAME,com.google.android.gms*
 PROCESS-NAME,com.google.android.gsf*
 PROCESS-NAME,com.google.process.gservices*
-PROCESS-NAME,com.microsoft.emmx*
 PROCESS-NAME,com.tencent.mm:push
 PROCESS-NAME,com.android.chrome*
+PROCESS-NAME,com.box.app
+PROCESS-NAME,com.microsoft.emmx
