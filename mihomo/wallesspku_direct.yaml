@@ -291,7 +291,6 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-KEYWORD,bilibili
