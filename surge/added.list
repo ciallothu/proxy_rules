@@ -51,7 +51,6 @@ DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,mirror.freedif.org
 PROCESS-NAME,org.lsposed.manager
 PROCESS-NAME,com.sukisu.ultra
-PROCESS-NAME,com.microsoft.emmx
 PROCESS-NAME,com.android.vending*
 PROCESS-NAME,com.google.android.gms*
 PROCESS-NAME,com.google.android.gsf*
