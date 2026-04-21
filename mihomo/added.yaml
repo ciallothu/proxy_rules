@@ -59,4 +59,5 @@ payload:
   - PROCESS-NAME-WILDCARD,com.google.android.gsf*
   - PROCESS-NAME-WILDCARD,com.google.process.gservices*
   - PROCESS-NAME,com.tencent.mm:push
+  - PROCESS-NAME,com.box.app
   - PROCESS-NAME-WILDCARD,com.android.chrome*
