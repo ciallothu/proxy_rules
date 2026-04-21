@@ -54,6 +54,7 @@ payload:
   - PROCESS-NAME,org.lsposed.manager
   - PROCESS-NAME,com.sukisu.ultra
   - PROCESS-NAME,com.microsoft.emmx
+  - PROCESS-NAME,org.telegram.group
   - PROCESS-NAME-WILDCARD,com.android.vending*
   - PROCESS-NAME-WILDCARD,com.google.android.gms*
   - PROCESS-NAME-WILDCARD,com.google.android.gsf*
