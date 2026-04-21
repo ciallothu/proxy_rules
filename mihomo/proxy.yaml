@@ -1025,7 +1025,7 @@ payload:
 - DOMAIN-SUFFIX,cnet.com
 - DOMAIN-SUFFIX,cnbc.com
 - DOMAIN-SUFFIX,cam4.com
-- DOMAIN-SUFFIX,bing.com
+- DOMAIN,www.bing.com
 - DOMAIN-SUFFIX,bang.com
 - DOMAIN-SUFFIX,av28.com
 - DOMAIN-SUFFIX,atom.com
