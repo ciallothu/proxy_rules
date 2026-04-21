@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,www.bing.com
   - DOMAIN-KEYWORD,alpine
   - DOMAIN-SUFFIX,letsbuildthe.cloud
