@@ -35,6 +35,7 @@ payload:
   - DOMAIN,www.7now.com
   - DOMAIN-KEYWORD,grok
   - DOMAIN-KEYWORD,cn.bing.com
+  - DOMAIN-KEYWORD,bing.net
   - DOMAIN-KEYWORD,alpine
   - DOMAIN-SUFFIX,letsbuildthe.cloud
   - DOMAIN-SUFFIX,linuxcontainers.org
