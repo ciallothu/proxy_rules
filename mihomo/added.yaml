@@ -52,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,mirror.freedif.org
   - PROCESS-NAME,org.lsposed.manager
   - PROCESS-NAME,com.sukisu.ultra
-  - PROCESS-NAME,com.microsoft.emmx
   - PROCESS-NAME-WILDCARD,com.android.vending*
   - PROCESS-NAME-WILDCARD,com.google.android.gms*
   - PROCESS-NAME-WILDCARD,com.google.android.gsf*
