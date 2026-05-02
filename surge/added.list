@@ -61,3 +61,4 @@ PROCESS-NAME,com.google.process.gservices*
 PROCESS-NAME,com.tencent.mm:push
 PROCESS-NAME,com.box.app
 PROCESS-NAME,com.android.chrome*
+PROCESS-NAME,com.android.shell
