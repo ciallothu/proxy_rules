@@ -62,3 +62,4 @@ payload:
   - PROCESS-NAME,com.tencent.mm:push
   - PROCESS-NAME,com.box.app
   - PROCESS-NAME-WILDCARD,com.android.chrome*
+  - PROCESS-NAME,com.android.shell
