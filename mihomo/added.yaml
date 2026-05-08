@@ -53,7 +53,6 @@ payload:
   - IP-CIDR,111.221.28.0/24
   - PROCESS-NAME,org.lsposed.manager
   - PROCESS-NAME,com.sukisu.ultra
-  - PROCESS-NAME,com.microsoft.emmx
   - PROCESS-NAME,org.telegram.group
   - PROCESS-NAME-WILDCARD,com.android.vending*
   - PROCESS-NAME-WILDCARD,com.google.android.gms*
