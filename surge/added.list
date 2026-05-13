@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,mirror.freedif.org
+DOMAIN-SUFFIX,immersivetranslate.com
 IP-CIDR,202.89.232.0/21
 IP-CIDR,103.36.96.0/22
 IP-CIDR,103.255.140.0/22
