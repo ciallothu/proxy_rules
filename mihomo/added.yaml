@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,api.tholeapis.top
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,mirror.freedif.org
