@@ -8,6 +8,10 @@ from pathlib import Path
 from typing import Iterable
 
 COMMENT_PREFIXES = ("#", ";", "//")
+TARGET_SUFFIX = {
+    "surge": ".list",
+    "loon": ".lsr",
+}
 
 
 def eprint(*args, **kwargs) -> None:
@@ -132,8 +136,9 @@ def convert_rule(rule: str, dst: str) -> str | None:
       - surge: Surge RULE-SET file syntax, one rule per line, no policy.
       - loon:  Loon Remote Rule file syntax, one rule per line, no policy.
 
-    Loon and Surge share most domain/IP rule syntax. The main normalization from
-    Mihomo here is DST-PORT -> DEST-PORT and dropping Mihomo-only route rules.
+    Loon and Surge share most domain/IP rule syntax. The generated Loon files
+    use the Loon-specific .lsr extension, but the line-level rule syntax remains
+    the normal Loon remote-rule syntax.
     """
     kind, payload, extra = split_rule(rule)
 
@@ -179,7 +184,7 @@ def convert_rule(rule: str, dst: str) -> str | None:
     return rule
 
 
-def write_rule_list(path: Path, rules: list[str]) -> None:
+def write_rule_file(path: Path, rules: list[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(rules) + ("\n" if rules else ""), encoding="utf-8")
 
@@ -210,8 +215,10 @@ def generate(mihomo_dir: Path, surge_dir: Path, loon_dir: Path) -> int:
                     converted.append(out)
 
             converted = dedupe_keep_order(converted)
-            write_rule_list(dst_dir / f"{stem}.list", converted)
-            eprint(f"[ok] {src} -> {dst_dir / (stem + '.list')} ({len(converted)} rules)")
+            suffix = TARGET_SUFFIX[dst_name]
+            dst_file = dst_dir / f"{stem}{suffix}"
+            write_rule_file(dst_file, converted)
+            eprint(f"[ok] {src} -> {dst_file} ({len(converted)} rules)")
             count += 1
 
     return count
