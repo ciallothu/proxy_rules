@@ -11,9 +11,9 @@ The repository exposes six canonical portable rule files. Client configurations 
 | `proxy_added.list` | Manual | Temporary or personal proxy/global rules. Edit this file directly when a domain should go through proxy immediately. |
 | `direct_added.list` | Manual | Temporary or personal direct/domestic rules. Edit this file directly when a domain should go direct immediately. |
 | `reject_added.list` | Manual | Temporary or personal reject/adblock rules. Edit this file directly when a domain should be blocked immediately. |
-| `proxy.list` | Generated | Consolidated proxy/global rules from legacy local rules and external upstream sources. Do not edit manually. |
-| `direct.list` | Generated | Consolidated direct/domestic rules from legacy local rules and external upstream sources. Do not edit manually. |
-| `reject.list` | Generated | Consolidated reject/adblock rules from legacy local rules and external upstream sources. Do not edit manually. |
+| `proxy.list` | Generated | Consolidated proxy/global rules from upstream sources. Do not edit manually. |
+| `direct.list` | Generated | Consolidated direct/domestic rules from upstream sources. Do not edit manually. |
+| `reject.list` | Generated | Consolidated reject/adblock rules from upstream sources. Do not edit manually. |
 
 ## Recommended jsDelivr URLs
 
@@ -116,9 +116,3 @@ final/default
 ```
 
 This keeps blocking rules first, then proxy/global rules, then direct/domestic rules.
-
-## Notes
-
-- The legacy `mihomo/`, `surge/`, and `loon/` rule directories have been removed from `main`.
-- `tools/build_rules.py` still imports the last pre-cleanup legacy snapshot by commit hash, so old non-added custom rules are not lost.
-- New temporary rules should go into one of the three `*_added.list` files.
