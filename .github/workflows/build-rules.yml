@@ -11,13 +11,18 @@ on:
       - "proxy_added.list"
       - "direct_added.list"
       - "reject_added.list"
-      - "mihomo/**"
-      - "surge/**"
-      - "loon/**"
+      - "proxy.list"
+      - "direct.list"
+      - "reject.list"
       - ".github/workflows/build-rules.yml"
+      - "README.md"
 
 permissions:
   contents: write
+
+concurrency:
+  group: build-consolidated-rules
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -51,4 +56,27 @@ jobs:
           git commit -m "Build consolidated rules"
           git push
 
-# touched to trigger rebuild
+      - name: Purge jsDelivr cache
+        run: |
+          set -u
+          sleep 5
+          for f in \
+            proxy_added.list \
+            direct_added.list \
+            reject_added.list \
+            proxy.list \
+            direct.list \
+            reject.list
+          do
+            url="https://purge.jsdelivr.net/gh/ciallothu/proxy_rules@main/${f}"
+            echo "Purging ${url}"
+            curl \
+              --fail \
+              --location \
+              --silent \
+              --show-error \
+              --retry 5 \
+              --retry-delay 2 \
+              --retry-all-errors \
+              "${url}" || true
+          done
