@@ -50,3 +50,5 @@ jobs:
           git add proxy.list direct.list reject.list proxy_added.list direct_added.list reject_added.list
           git commit -m "Build consolidated rules"
           git push
+
+# touched to trigger rebuild
