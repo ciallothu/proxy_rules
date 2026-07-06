@@ -1,0 +1,54 @@
+name: Build consolidated rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 04:17 Asia/Shanghai / Asia/Tokyo every day.
+    - cron: "17 20 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "tools/build_rules.py"
+      - "proxy_added.list"
+      - "direct_added.list"
+      - "reject_added.list"
+      - "mihomo/**"
+      - "surge/**"
+      - "loon/**"
+      - ".github/workflows/build-rules.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build consolidated rule files
+        run: python3 tools/build_rules.py
+
+      - name: Show generated diff
+        run: git diff -- proxy.list direct.list reject.list proxy_added.list direct_added.list reject_added.list
+
+      - name: Commit generated files
+        run: |
+          if git diff --quiet -- proxy.list direct.list reject.list proxy_added.list direct_added.list reject_added.list; then
+            echo "No rule changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add proxy.list direct.list reject.list proxy_added.list direct_added.list reject_added.list
+          git commit -m "Build consolidated rules"
+          git push
