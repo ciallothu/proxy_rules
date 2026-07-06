@@ -12,22 +12,13 @@ ROOT = Path(__file__).resolve().parents[1]
 
 COMMENT_PREFIXES = ("#", ";", "//")
 PORTABLE_KINDS = {"DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "IP-CIDR", "IP-CIDR6", "IP-ASN"}
-LEGACY_COMMIT = "c210e6e816b0a18d8095fc61c60db23e3f2c90df"
-LEGACY_RAW_BASE = f"https://raw.githubusercontent.com/ciallothu/proxy_rules/{LEGACY_COMMIT}"
 
-def legacy(path: str) -> str:
-    return f"{LEGACY_RAW_BASE}/{path}"
-
-# The old mihomo/surge/loon files were removed from the repository. Their last
-# pre-cleanup versions are fetched from LEGACY_COMMIT so existing non-added
-# custom rules are still preserved in generated proxy/direct/reject lists.
-# The *_added.list files are manual override lists and are referenced directly
-# by client configs, so they are deliberately not included here.
+# Generated lists are built only from current external upstream sources declared
+# here. Manual overrides live in *_added.list and are referenced separately by
+# client configs, so they are not merged into proxy/direct/reject outputs.
 SOURCES = {
     "proxy": [
-        legacy("mihomo/proxy.yaml"), legacy("mihomo/gfw.yaml"), legacy("mihomo/stream.yaml"), legacy("mihomo/wallesspku_gfw.yaml"),
-        legacy("surge/proxy.list"), legacy("surge/gfw.list"), legacy("surge/stream.list"), legacy("surge/wallesspku_gfw.list"),
-        legacy("loon/proxy.lsr"), legacy("loon/gfw.lsr"), legacy("loon/stream.lsr"), legacy("loon/wallesspku_gfw.lsr"),
+        # AI / proxy / global
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OneDrive/OneDrive.list",
@@ -41,20 +32,25 @@ SOURCES = {
         "https://ruleset.skk.moe/List/non_ip/apple_intelligence.conf",
         "https://ruleset.skk.moe/List/non_ip/global.conf",
         "https://ruleset.skk.moe/List/non_ip/global_plus.conf",
+        # Stream / media
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list",
         "https://ruleset.skk.moe/List/non_ip/stream.conf",
         "https://ruleset.skk.moe/List/ip/stream.conf",
-        "https://ruleset.skk.moe/List/non_ip/stream_us.conf", "https://ruleset.skk.moe/List/ip/stream_us.conf",
-        "https://ruleset.skk.moe/List/non_ip/stream_eu.conf", "https://ruleset.skk.moe/List/ip/stream_eu.conf",
-        "https://ruleset.skk.moe/List/non_ip/stream_jp.conf", "https://ruleset.skk.moe/List/ip/stream_jp.conf",
-        "https://ruleset.skk.moe/List/non_ip/stream_kr.conf", "https://ruleset.skk.moe/List/ip/stream_kr.conf",
-        "https://ruleset.skk.moe/List/non_ip/stream_hk.conf", "https://ruleset.skk.moe/List/ip/stream_hk.conf",
-        "https://ruleset.skk.moe/List/non_ip/stream_tw.conf", "https://ruleset.skk.moe/List/ip/stream_tw.conf",
+        "https://ruleset.skk.moe/List/non_ip/stream_us.conf",
+        "https://ruleset.skk.moe/List/ip/stream_us.conf",
+        "https://ruleset.skk.moe/List/non_ip/stream_eu.conf",
+        "https://ruleset.skk.moe/List/ip/stream_eu.conf",
+        "https://ruleset.skk.moe/List/non_ip/stream_jp.conf",
+        "https://ruleset.skk.moe/List/ip/stream_jp.conf",
+        "https://ruleset.skk.moe/List/non_ip/stream_kr.conf",
+        "https://ruleset.skk.moe/List/ip/stream_kr.conf",
+        "https://ruleset.skk.moe/List/non_ip/stream_hk.conf",
+        "https://ruleset.skk.moe/List/ip/stream_hk.conf",
+        "https://ruleset.skk.moe/List/non_ip/stream_tw.conf",
+        "https://ruleset.skk.moe/List/ip/stream_tw.conf",
     ],
     "direct": [
-        legacy("mihomo/direct.yaml"), legacy("mihomo/apple.yaml"), legacy("mihomo/wallesspku_direct.yaml"),
-        legacy("surge/direct.list"), legacy("surge/apple.list"), legacy("surge/wallesspku_direct.list"),
-        legacy("loon/direct.lsr"), legacy("loon/apple.lsr"), legacy("loon/wallesspku_direct.lsr"),
+        # Apple / China / direct / LAN
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple_Domain.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China.list",
@@ -66,12 +62,17 @@ SOURCES = {
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/china-list.txt",
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt",
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt",
-        "https://ruleset.skk.moe/List/non_ip/apple_cn.conf", "https://ruleset.skk.moe/List/non_ip/apple_services.conf", "https://ruleset.skk.moe/List/ip/apple_services.conf",
-        "https://ruleset.skk.moe/List/non_ip/lan.conf", "https://ruleset.skk.moe/List/ip/lan.conf",
-        "https://ruleset.skk.moe/List/non_ip/direct.conf", "https://ruleset.skk.moe/List/non_ip/domestic.conf", "https://ruleset.skk.moe/List/ip/domestic.conf", "https://ruleset.skk.moe/List/ip/china_ip.conf",
+        "https://ruleset.skk.moe/List/non_ip/apple_cn.conf",
+        "https://ruleset.skk.moe/List/non_ip/apple_services.conf",
+        "https://ruleset.skk.moe/List/ip/apple_services.conf",
+        "https://ruleset.skk.moe/List/non_ip/lan.conf",
+        "https://ruleset.skk.moe/List/ip/lan.conf",
+        "https://ruleset.skk.moe/List/non_ip/direct.conf",
+        "https://ruleset.skk.moe/List/non_ip/domestic.conf",
+        "https://ruleset.skk.moe/List/ip/domestic.conf",
+        "https://ruleset.skk.moe/List/ip/china_ip.conf",
     ],
     "reject": [
-        legacy("mihomo/black.yaml"), legacy("surge/black.list"), legacy("loon/black.lsr"),
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising_Domain.list",
         "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurge.list",
@@ -81,8 +82,12 @@ SOURCES = {
         "https://anti-ad.net/surge.txt",
         "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/reject.txt",
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
-        "https://ruleset.skk.moe/List/non_ip/reject-drop.conf", "https://ruleset.skk.moe/List/domainset/reject.conf", "https://ruleset.skk.moe/List/domainset/reject_extra.conf",
-        "https://ruleset.skk.moe/List/non_ip/reject.conf", "https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf", "https://ruleset.skk.moe/List/ip/reject.conf",
+        "https://ruleset.skk.moe/List/non_ip/reject-drop.conf",
+        "https://ruleset.skk.moe/List/domainset/reject.conf",
+        "https://ruleset.skk.moe/List/domainset/reject_extra.conf",
+        "https://ruleset.skk.moe/List/non_ip/reject.conf",
+        "https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf",
+        "https://ruleset.skk.moe/List/ip/reject.conf",
     ],
 }
 
@@ -90,8 +95,10 @@ DOMAIN_RE = re.compile(r"^(?=.{1,253}$)([a-z0-9_-]{1,63}\.)+[a-z0-9_-]{2,63}\.?$
 IPV4_RE = re.compile(r"^\d{1,3}(?:\.\d{1,3}){3}(?:/\d{1,2})?$")
 IPV6_LIKE_RE = re.compile(r"^[0-9a-f:]+(?:/\d{1,3})?$", re.I)
 
+
 def eprint(*args, **kwargs) -> None:
     print(*args, file=sys.stderr, **kwargs)
+
 
 def strip_inline_comment(line: str) -> str:
     line = line.rstrip()
@@ -118,6 +125,7 @@ def strip_inline_comment(line: str) -> str:
         i += 1
     return "".join(out).strip()
 
+
 def clean_yaml_item(line: str) -> str:
     line = line.strip()
     if line.startswith("- "):
@@ -128,6 +136,7 @@ def clean_yaml_item(line: str) -> str:
         line = line[1:-1].strip()
     return line.strip().rstrip(",")
 
+
 def normalize_domain(value: str) -> str:
     value = value.strip().strip("'\"").strip().split(",", 1)[0].strip().lower().lstrip("+")
     if value.startswith("*."):
@@ -136,12 +145,14 @@ def normalize_domain(value: str) -> str:
         value = value[1:]
     return value.rstrip(".")
 
+
 def looks_like_domain(value: str) -> bool:
     if not value or "/" in value or " " in value or "@" in value or value.startswith(("http://", "https://")):
         return False
     if IPV4_RE.match(value) or IPV6_LIKE_RE.match(value):
         return False
     return bool(DOMAIN_RE.match(value))
+
 
 def build(kind: str, payload: str, extra: str = "") -> str | None:
     kind = kind.upper().strip()
@@ -155,6 +166,7 @@ def build(kind: str, payload: str, extra: str = "") -> str | None:
     if kind in {"IP-CIDR", "IP-CIDR6", "IP-ASN"}:
         return f"{kind},{payload}{',' + extra if extra else ''}"
     return None
+
 
 def convert_line(raw: str) -> str | None:
     line = strip_inline_comment(raw)
@@ -182,6 +194,7 @@ def convert_line(raw: str) -> str | None:
     domain = normalize_domain(line)
     return build("DOMAIN-SUFFIX", domain) if looks_like_domain(domain) else None
 
+
 def dedupe_keep_order(items: Iterable[str]) -> list[str]:
     seen: set[str] = set()
     out: list[str] = []
@@ -190,6 +203,7 @@ def dedupe_keep_order(items: Iterable[str]) -> list[str]:
             seen.add(item)
             out.append(item)
     return out
+
 
 def fetch_remote(url: str) -> list[str]:
     req = urllib.request.Request(url, headers={"User-Agent": "proxy-rules-builder/1.0"})
@@ -203,6 +217,7 @@ def fetch_remote(url: str) -> list[str]:
         eprint(f"[remote:failed] {url}: {exc}")
         return []
 
+
 def collect_group(name: str) -> list[str]:
     rules: list[str] = []
     for url in SOURCES[name]:
@@ -213,12 +228,19 @@ def collect_group(name: str) -> list[str]:
         time.sleep(0.15)
     return dedupe_keep_order(rules)
 
+
 def write_rules(path: Path, title: str, rules: list[str]) -> None:
-    body = [f"# {title}", "# Auto-generated by tools/build_rules.py.", "# Do not edit this generated file directly; edit *_added.list or sources in tools/build_rules.py.", ""]
+    body = [
+        f"# {title}",
+        "# Auto-generated by tools/build_rules.py.",
+        "# Do not edit this generated file directly; edit *_added.list or sources in tools/build_rules.py.",
+        "",
+    ]
     body.extend(rules)
     body.append("")
     path.write_text("\n".join(body), encoding="utf-8")
     eprint(f"[write] {path.relative_to(ROOT)} ({len(rules)} rules)")
+
 
 def ensure_added_files() -> None:
     templates = {
@@ -231,19 +253,23 @@ def ensure_added_files() -> None:
         if not path.exists():
             path.write_text(content, encoding="utf-8")
 
+
 def main() -> int:
     ensure_added_files()
     reject = collect_group("reject")
     proxy = collect_group("proxy")
     direct = collect_group("direct")
+
     reject_set = set(reject)
     proxy = [r for r in proxy if r not in reject_set]
     proxy_set = set(proxy)
     direct = [r for r in direct if r not in reject_set and r not in proxy_set]
+
     write_rules(ROOT / "reject.list", "Consolidated reject rules", reject)
     write_rules(ROOT / "proxy.list", "Consolidated proxy/global rules", proxy)
     write_rules(ROOT / "direct.list", "Consolidated direct/domestic rules", direct)
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())
