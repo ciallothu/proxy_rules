@@ -1537,7 +1537,6 @@ domain:dns2.us
 domain:dns2go.com
 domain:dnscrypt.org
 domain:dnsimple.com
-domain:dnsrd.com
 domain:dnssec.net
 domain:doc.new
 domain:docker.com
@@ -4630,7 +4629,6 @@ domain:realitykings.com
 domain:realraptalk.com
 domain:realsexpass.com
 domain:reason.com
-domain:rebatesrule.net
 domain:recaptcha.net
 domain:recordedfuture.com
 domain:recordhistory.org
@@ -5664,7 +5662,6 @@ domain:trello.com
 domain:trendsmap.com
 domain:trialofccp.org
 domain:trickip.net
-domain:trickip.org
 domain:trimondi.de
 domain:tronscan.org
 domain:trouw.nl

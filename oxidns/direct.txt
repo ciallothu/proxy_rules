@@ -15188,7 +15188,6 @@ domain:alinx.com
 domain:alinx.vip
 domain:aliog.com
 domain:alionexpo.com
-domain:alipansou.com
 domain:alipay-corp.com
 domain:alipay-eco.com
 domain:alipay-inc.com
@@ -89553,7 +89552,6 @@ domain:tjsjwygg.com
 domain:tjsjx.com
 domain:tjskq.com
 domain:tjskqyy.com
-domain:tjsptech.com
 domain:tjst.net
 domain:tjsylhh.com
 domain:tjtele.com
