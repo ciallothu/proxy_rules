@@ -57,3 +57,4 @@ domain:mirror.freedif.org
 domain:immersivetranslate.com
 domain:api-status.longbridgeapp.com
 domain:api.lbkrs.com
+domain:alicesw.com
