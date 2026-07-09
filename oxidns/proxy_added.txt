@@ -57,4 +57,10 @@ domain:mirror.freedif.org
 domain:immersivetranslate.com
 domain:api-status.longbridgeapp.com
 domain:api.lbkrs.com
-domain:alicesw.com
+full:www.alicesw.com
+full:proxycheck.io
+full:my.ippure.com
+full:myip.ipip.net
+full:api.ipapi.is
+full:blackbox.ipinfo.app
+full:ip.net.coffee
