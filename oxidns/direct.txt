@@ -4,6 +4,13 @@
 # DOMAIN -> full:, DOMAIN-SUFFIX -> domain:, DOMAIN-KEYWORD -> keyword:.
 # IP rules are intentionally omitted because OxiDNS domain_set matches qname only.
 
+keyword:apple-support.akadns.net
+keyword:apple.com.akadns.net
+keyword:apple.com.edgekey.net
+keyword:buy.itunes.apple.com
+keyword:smp-device
+keyword:testflight
+keyword:icloud.com.akadns.net
 domain:appldnld.apple.com.edgesuite.net
 domain:apple-appstore.cn
 domain:apple-dns.cn

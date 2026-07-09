@@ -4,6 +4,33 @@
 # DOMAIN -> full:, DOMAIN-SUFFIX -> domain:, DOMAIN-KEYWORD -> keyword:.
 # IP rules are intentionally omitted because OxiDNS domain_set matches qname only.
 
+full:browser-intake-datadoghq.com
+full:chat.openai.com.cdn.cloudflare.net
+full:openai-api.arkoselabs.com
+full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+full:openaicomproductionae4b.blob.core.windows.net
+full:production-openaicom-storage.azureedge.net
+full:static.cloudflareinsights.com
+domain:ai.com
+domain:algolia.net
+domain:auth0.com
+domain:chatgpt.com
+domain:chatgpt.livekit.cloud
+domain:client-api.arkoselabs.com
+domain:host.livekit.cloud
+domain:identrust.com
+domain:intercom.io
+domain:intercomcdn.com
+domain:launchdarkly.com
+domain:oaistatic.com
+domain:oaiusercontent.com
+domain:observeit.net
+domain:openai.com
+domain:openaiapi-site.azureedge.net
+domain:openaicom.imgix.net
+domain:stripe.com
+domain:turn.livekit.cloud
+keyword:openai
 full:ai.google.dev
 full:alkalimakersuite-pa.clients6.google.com
 full:makersuite.google.com
@@ -6809,7 +6836,6 @@ domain:cdn.statically.io
 domain:cdninstagram.com
 domain:certificate.revocationcheck.com
 domain:chat.lmsys.org
-domain:chatgpt.com
 domain:chenshan20042005.wordpress.com
 domain:china.ucanews.com
 domain:chinaview.wordpress.com
@@ -7182,7 +7208,6 @@ domain:one.one.one.one
 domain:online.recoveryversion.org
 domain:onlineyoutube.com
 domain:open.firstory.me
-domain:openai.com
 domain:openapi-quote.longbridge.com
 domain:openapi-trade.longbridge.com
 domain:openapi.futunn.com
@@ -7664,9 +7689,7 @@ full:oneocsp.microsoft.com
 full:ood.opsource.net
 full:openaiapi-site.azureedge.net
 full:openaiassets.blob.core.windows.net
-full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 full:openaicom.imgix.net
-full:openaicomproductionae4b.blob.core.windows.net
 full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
 full:osu.ppy.sh
@@ -7688,7 +7711,6 @@ full:practivate.adobe.ntp
 full:prd-priconne-redive.akamaized.net
 full:preprod-publicca.googleapis.com
 full:prodforza.blob.core.windows.net
-full:production-openaicom-storage.azureedge.net
 full:productionresultssa0.blob.core.windows.net
 full:productionresultssa1.blob.core.windows.net
 full:productionresultssa10.blob.core.windows.net
@@ -10189,7 +10211,6 @@ domain:auricularesbeatsbaratosshop.com
 domain:auricularesbeatsmarkt.com
 domain:auroraoss.com
 domain:ausbeatsbydrdre.com
-domain:auth0.com
 domain:authorxml.com
 domain:authpass.app
 domain:authy.com
@@ -12449,7 +12470,6 @@ domain:charlotte-anime.jp
 domain:charmescorts.com
 domain:charticulator.com
 domain:chatango.com
-domain:chatgpt.livekit.cloud
 domain:chatgptvideo.xyz
 domain:chatgptvideob.buzz
 domain:chatsex.xxx
@@ -17111,7 +17131,6 @@ domain:horsedick.net
 domain:horsedicks.net
 domain:horsemecum.com
 domain:horseporn.tv
-domain:host.livekit.cloud
 domain:hostborneo.org
 domain:hot-arab-films.com
 domain:hot-cartoon.com
@@ -17619,7 +17638,6 @@ domain:ideco.ru
 domain:idecosoftware.ru
 domain:idelreal.org
 domain:identrust.co.uk
-domain:identrust.com
 domain:identrust.net
 domain:idnike.com
 domain:idol-sagasukun.com
@@ -18215,9 +18233,7 @@ domain:interactivebrokers.ie
 domain:interactivesex.xxx
 domain:intercamcashpassport.com.mx
 domain:intercom.com
-domain:intercom.io
 domain:intercomassets.com
-domain:intercomcdn.com
 domain:interforest.org
 domain:internationalconnectionsacademy.com
 domain:internationalsaimoe.com
@@ -21953,9 +21969,7 @@ domain:o365weve-ppe.com
 domain:o365weve.com
 domain:o3t.ru
 domain:o3team.ru
-domain:oaistatic.com
 domain:oaistatsig.com
-domain:oaiusercontent.com
 domain:oanencore.com
 domain:oasis.io
 domain:oath.cloud
@@ -25442,7 +25456,6 @@ domain:strikinglycdn.com
 domain:strip-poker.xxx
 domain:stripcamfun.com
 domain:stripe-terminal-local-reader.net
-domain:stripe.com
 domain:stripe.network
 domain:stripecdn.com
 domain:stripparadise.com
@@ -26388,7 +26401,6 @@ domain:turbopages.org
 domain:turborepo.org
 domain:turbotax.com
 domain:turkeyblocks.org
-domain:turn.livekit.cloud
 domain:tusco.ru
 domain:tushy.com
 domain:tuta.com
@@ -29197,7 +29209,6 @@ domain:zzdh808.com
 domain:zzdh99.com
 domain:zzgays.com
 domain:zzycdz.com
-domain:ai.com
 domain:gemini.google
 full:openrouter.ai
 full:api.github.com
@@ -29216,7 +29227,6 @@ full:aisandbox-pa.googleapis.com
 domain:cloudcode-pa.googleapis.com
 full:robinfrontend-pa.googleapis.com
 domain:generativelanguage.googleapis.com
-keyword:openai
 keyword:alkalimakersuite-pa.clients6.google.com
 full:cp4.cloudflare.com
 full:apple-relay.apple.com
@@ -29518,7 +29528,6 @@ domain:cla-assistant.io
 domain:downdetector.com
 full:ees.elsevier.com
 domain:girlsgogames.com
-domain:launchdarkly.com
 domain:malwarebytes.com
 domain:myanimeshelf.com
 domain:orionbrowser.com
