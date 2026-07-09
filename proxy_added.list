@@ -55,7 +55,13 @@ DOMAIN-SUFFIX,mirror.freedif.org
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,api-status.longbridgeapp.com
 DOMAIN-SUFFIX,api.lbkrs.com
-DOMAIN-SUFFIX,alicesw.com
+DOMAIN,www.alicesw.com
+DOMAIN,proxycheck.io
+DOMAIN,my.ippure.com
+DOMAIN,myip.ipip.net
+DOMAIN,api.ipapi.is
+DOMAIN,blackbox.ipinfo.app
+DOMAIN,ip.net.coffee
 IP-CIDR,202.89.232.0/21
 IP-CIDR,103.36.96.0/22
 IP-CIDR,103.255.140.0/22
