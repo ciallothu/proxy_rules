@@ -4,5 +4,3 @@
 # DOMAIN -> full:, DOMAIN-SUFFIX -> domain:, DOMAIN-KEYWORD -> keyword:.
 # IP rules are intentionally omitted because OxiDNS domain_set matches qname only.
 
-full:dns.routeforge.network
-domain:tsinghua.edu.cn
