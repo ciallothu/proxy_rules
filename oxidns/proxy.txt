@@ -1982,6 +1982,7 @@ domain:flgjustice.org
 domain:flickr.com
 domain:flickrhivemind.net
 domain:flickriver.com
+domain:fling.com
 domain:flipboard.com
 domain:flipkart.com
 domain:flitto.com
@@ -13095,6 +13096,7 @@ domain:cumshotlist.com
 domain:cumswappingsis.com
 domain:cumteenporn.com
 domain:cunhua.pics
+domain:cuntempire.com
 domain:cup.com.hk
 domain:cups.online
 domain:cups.org
@@ -29272,6 +29274,7 @@ domain:grep.app
 domain:iaea.org
 domain:kagi.com
 domain:kick.com
+domain:kwai.com
 domain:laby.net
 domain:logto.io
 domain:ndtv.com
