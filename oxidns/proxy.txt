@@ -1441,7 +1441,6 @@ domain:dbgjd.com
 domain:dcard.tw
 domain:dcmilitary.com
 domain:ddc.com.tw
-domain:ddex.io
 domain:ddhw.info
 domain:dditscdn.com
 domain:de-sci.org
