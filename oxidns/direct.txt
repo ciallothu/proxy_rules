@@ -13884,6 +13884,7 @@ domain:ad518.com
 domain:ad77.com
 domain:ad778.com
 domain:ada-post.com
+domain:adacpp.com
 domain:adamahf.com
 domain:adamcdn.com
 domain:adamcoder.com
@@ -27660,6 +27661,7 @@ domain:colocess.com
 domain:color-measure.com
 domain:color365.com
 domain:colorbird.com
+domain:colorfulclouds.com
 domain:colorfulclouds.net
 domain:colorfulltech.net
 domain:colorimeter.com
@@ -33499,6 +33501,7 @@ domain:duoyewu.com
 domain:duoyi.com
 domain:duoying.com
 domain:duoyinsu.com
+domain:duoyiwangluo.com
 domain:duoyoumi.com
 domain:duozhi.com
 domain:duozhuayu.com
@@ -41776,6 +41779,7 @@ domain:gter.net
 domain:gtetern.com
 domain:gtfund.com
 domain:gtg56.com
+domain:gtgjtrip.com
 domain:gtgqw.com
 domain:gtht.com
 domain:gthzc.com
@@ -59864,6 +59868,7 @@ domain:kldhq.com
 domain:klhpw.com
 domain:klhuyan.com
 domain:klicen.com
+domain:kling-ai.com
 domain:klingai.com
 domain:klinlee.com
 domain:klisedu.com
@@ -62083,6 +62088,7 @@ domain:leyonb.com
 domain:leyoo.com
 domain:leyoujia.com
 domain:leyu.com
+domain:leyuansu.com
 domain:leyue100.com
 domain:leyuglobal.com
 domain:leyun365.com
@@ -81438,6 +81444,7 @@ domain:sheca.com
 domain:shedongyun.com
 domain:shedoor.com
 domain:shedunews.com
+domain:shedunews.net
 domain:sheec-tencentclb.cloud
 domain:sheec-tencentclb.com
 domain:sheec-tencentclb.net
@@ -98654,6 +98661,7 @@ domain:xiaomazhixing.com
 domain:xiaomei.cc
 domain:xiaomeiti.com
 domain:xiaomeng1235.com
+domain:xiaomengai.com
 domain:xiaomi.hk
 domain:xiaomi.org
 domain:xiaomi.tw
@@ -102610,6 +102618,7 @@ domain:ygcooler.com
 domain:ygct.com
 domain:ygdatabase.com
 domain:ygdl.com
+domain:ygduoyi.com
 domain:yge.me
 domain:ygeer.com
 domain:ygei.com
@@ -109752,6 +109761,7 @@ domain:zmshz.com
 domain:zmsq.com
 domain:zmssh.com
 domain:zmtpc.com
+domain:zmtqsh.com
 domain:zmtquan.com
 domain:zmufivehospital.com
 domain:zmumu.com
