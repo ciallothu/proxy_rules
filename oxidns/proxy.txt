@@ -16156,7 +16156,6 @@ domain:getpersonas.com
 domain:getpocket.com
 domain:getporn.tv
 domain:getprintersupports.com
-domain:getsentry.com
 domain:getsexgames.com
 domain:getsynapse.io
 domain:gettyimages.at
@@ -24425,7 +24424,6 @@ domain:sensorynetworks.com
 domain:sensualgirls.org
 domain:sensualmothers.com
 domain:sensueel.net
-domain:sentry-cdn.com
 domain:sentry.dev
 domain:senzuritv.net
 domain:seo-dash.net
@@ -27614,6 +27612,7 @@ domain:wballiance.com
 domain:wbautomation.ru
 domain:wbautomation.tech
 domain:wbbasket.ru
+domain:wbcontent.net
 domain:wbd.ms
 domain:wbdnbo.net
 domain:wbdubna.ru
