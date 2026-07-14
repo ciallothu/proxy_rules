@@ -7801,11 +7801,7 @@ DOMAIN,play-edge.itunes.apple.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN,pplx-res.cloudinary.com
-DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.com
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,preprod-publicca.googleapis.com
 DOMAIN,prodforza.blob.core.windows.net
@@ -9306,7 +9302,6 @@ DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,alfa.me
-DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
@@ -12571,6 +12566,7 @@ DOMAIN-SUFFIX,charlotte-anime.jp
 DOMAIN-SUFFIX,charmescorts.com
 DOMAIN-SUFFIX,charticulator.com
 DOMAIN-SUFFIX,chatango.com
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatgptvideo.xyz
 DOMAIN-SUFFIX,chatgptvideob.buzz
 DOMAIN-SUFFIX,chatsex.xxx
@@ -19153,6 +19149,7 @@ DOMAIN-SUFFIX,khanacademy.org
 DOMAIN-SUFFIX,khangar.net
 DOMAIN-SUFFIX,khotruyentranhx.com
 DOMAIN-SUFFIX,kichikuou.com
+DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kickporn.com
 DOMAIN-SUFFIX,kickshatchannel.com
 DOMAIN-SUFFIX,kicksnike1.com
@@ -29385,7 +29382,6 @@ DOMAIN-SUFFIX,fide.com
 DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,iaea.org
 DOMAIN-SUFFIX,kagi.com
-DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,laby.net
 DOMAIN-SUFFIX,logto.io

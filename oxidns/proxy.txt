@@ -7703,11 +7703,7 @@ full:play-edge.itunes.apple.com
 full:poshtestgallery.cloudapp.net
 full:ppl-ai-file-upload.s3.amazonaws.com
 full:pplx-res.cloudinary.com
-full:practivate.adobe
 full:practivate.adobe.com
-full:practivate.adobe.ipp
-full:practivate.adobe.newoa
-full:practivate.adobe.ntp
 full:prd-priconne-redive.akamaized.net
 full:preprod-publicca.googleapis.com
 full:prodforza.blob.core.windows.net
@@ -9208,7 +9204,6 @@ domain:alefbank.com
 domain:alexa.com
 domain:alexanderstreet.com
 domain:alfa.me
-domain:alfabank.oavdo.amc
 domain:alfabank.ru
 domain:alfabank.st
 domain:alfadirect.ru
@@ -12473,6 +12468,7 @@ domain:charlotte-anime.jp
 domain:charmescorts.com
 domain:charticulator.com
 domain:chatango.com
+domain:chatgpt.site
 domain:chatgptvideo.xyz
 domain:chatgptvideob.buzz
 domain:chatsex.xxx
@@ -19055,6 +19051,7 @@ domain:khanacademy.org
 domain:khangar.net
 domain:khotruyentranhx.com
 domain:kichikuou.com
+domain:kick.com
 domain:kickporn.com
 domain:kickshatchannel.com
 domain:kicksnike1.com
@@ -29287,7 +29284,6 @@ domain:fide.com
 domain:grep.app
 domain:iaea.org
 domain:kagi.com
-domain:kick.com
 domain:kwai.com
 domain:laby.net
 domain:logto.io

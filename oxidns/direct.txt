@@ -12247,6 +12247,7 @@ domain:885210.net
 domain:88582.com
 domain:8860.net
 domain:8864.com
+domain:8866.org
 domain:886623.com
 domain:8866316apt.work
 domain:8866886688.com
@@ -33364,6 +33365,7 @@ domain:duliangaotu.com
 domain:dulife.com
 domain:dulifei.com
 domain:dullr.com
+domain:dulupay.com
 domain:dulwich.org
 domain:dumall.com
 domain:dumanhua.com
@@ -106284,6 +106286,7 @@ domain:yzs.com
 domain:yzs.io
 domain:yzsbh.com
 domain:yzsfuer.com
+domain:yzsgo.com
 domain:yzshkjxx.com
 domain:yzshyzz.com
 domain:yzsljz.com
