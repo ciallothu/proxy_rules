@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "repository": "ciallothu/proxy_rules",
+  "files": [
+    "proxy_added.list",
+    "direct_added.list",
+    "reject_added.list",
+    "proxy.list",
+    "direct.list",
+    "reject.list",
+    "oxidns/proxy_added.txt",
+    "oxidns/direct_added.txt",
+    "oxidns/reject_added.txt",
+    "oxidns/proxy.txt",
+    "oxidns/direct.txt",
+    "oxidns/reject.txt"
+  ]
+}
