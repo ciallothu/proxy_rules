@@ -7901,7 +7901,6 @@ full:t.ssp.hinet.net
 full:t21.nikkei.co.jp
 full:t21ipau.nikkei.co.jp
 full:teamviewer.com.cdn.cloudflare.net
-full:tesla-cdn.thron.com
 full:thumbnail-hamivideo.cdn.hinet.net
 full:time-a-b.nist.gov
 full:time-a-g.nist.gov
@@ -10538,6 +10537,7 @@ domain:azuredigitaltwins.net
 domain:azuredns-prd.info
 domain:azuredns-prd.org
 domain:azureedge-test.net
+domain:azureedge.us
 domain:azurefd.net
 domain:azureiotcentral.com
 domain:azureiotsolutions.com
@@ -12964,6 +12964,7 @@ domain:coomer.su
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:copilot-stg.com
 domain:copilot.com
 domain:copro.pw
 domain:copy-manga.com
@@ -20180,6 +20181,7 @@ domain:mgo-images.com
 domain:mgo.com
 domain:mhcb.ru
 domain:mhcbr.ru
+domain:mhgui.com
 domain:mhhanman.xyz
 domain:mhqwe.xyz
 domain:mhshosting.com
@@ -25379,6 +25381,7 @@ domain:starfieldtech.com
 domain:starfox.com
 domain:stargazer-games.com
 domain:stark-verlag.ch
+domain:starlink.com
 domain:starott.com
 domain:starplus.com
 domain:starship-ent.com
