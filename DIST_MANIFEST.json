@@ -8,7 +8,6 @@
     "proxy.list",
     "direct.list",
     "reject.list",
-    "zju.list",
     "oxidns/proxy_added.txt",
     "oxidns/direct_added.txt",
     "oxidns/reject_added.txt",
