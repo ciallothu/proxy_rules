@@ -6,6 +6,7 @@ on:
     # 04:17 Asia/Shanghai / Asia/Tokyo every day.
     - cron: "17 20 * * *"
   push:
+    branches: [main]
     paths:
       - "tools/build_rules.py"
       - "tools/build_dist_manifest.py"
