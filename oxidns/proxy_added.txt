@@ -39,8 +39,6 @@ domain:apple-relay.mask.apple-dns.net
 full:www.7-eleven.com
 full:www.7now.com
 keyword:grok
-domain:thugroup.org
-domain:tsinghua-info.org
 keyword:alpine
 domain:letsbuildthe.cloud
 domain:linuxcontainers.org
