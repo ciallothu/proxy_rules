@@ -37,8 +37,6 @@ DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN,www.7-eleven.com
 DOMAIN,www.7now.com
 DOMAIN-KEYWORD,grok
-DOMAIN-SUFFIX,thugroup.org
-DOMAIN-SUFFIX,tsinghua-info.org
 DOMAIN-KEYWORD,alpine
 DOMAIN-SUFFIX,letsbuildthe.cloud
 DOMAIN-SUFFIX,linuxcontainers.org
