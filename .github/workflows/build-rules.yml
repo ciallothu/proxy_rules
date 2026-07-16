@@ -17,6 +17,7 @@ on:
       - "proxy.list"
       - "direct.list"
       - "reject.list"
+      - "zju.list"
       - "oxidns/**"
       - ".github/workflows/build-rules.yml"
       - "README.md"
