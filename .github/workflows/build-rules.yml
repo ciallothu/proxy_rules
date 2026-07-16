@@ -6,8 +6,11 @@ on:
     # 04:17 Asia/Shanghai / Asia/Tokyo every day.
     - cron: "17 20 * * *"
   push:
+    branches: [main]
     paths:
       - "tools/build_rules.py"
+      - "tools/build_dist_manifest.py"
+      - "DIST_MANIFEST.json"
       - "proxy_added.list"
       - "direct_added.list"
       - "reject_added.list"
@@ -42,40 +45,69 @@ jobs:
       - name: Build consolidated rule files
         run: python3 tools/build_rules.py
 
+      - name: Build distribution manifest
+        run: python3 tools/build_dist_manifest.py
+
       - name: Show generated diff
-        run: git diff -- proxy.list direct.list reject.list proxy_added.list direct_added.list reject_added.list oxidns/
+        run: |
+          set -euo pipefail
+          mapfile -t published_files < <(
+            python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("DIST_MANIFEST.json").read_text(encoding="utf-8"))
+          for path in manifest["files"]:
+              print(path)
+          PY
+          )
+          git diff -- "${published_files[@]}" DIST_MANIFEST.json
 
       - name: Commit generated files
         run: |
-          if git diff --quiet -- proxy.list direct.list reject.list proxy_added.list direct_added.list reject_added.list oxidns/; then
-            echo "No rule changes."
+          set -euo pipefail
+          mapfile -t published_files < <(
+            python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("DIST_MANIFEST.json").read_text(encoding="utf-8"))
+          for path in manifest["files"]:
+              print(path)
+          PY
+          )
+          generated_files=("${published_files[@]}" "DIST_MANIFEST.json")
+
+          if git diff --quiet -- "${generated_files[@]}"; then
+            echo "No rule or distribution-manifest changes."
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add proxy.list direct.list reject.list proxy_added.list direct_added.list reject_added.list oxidns/
+          git add -- "${generated_files[@]}"
           git commit -m "Build consolidated rules"
           git push
 
       - name: Purge jsDelivr cache
         run: |
-          set -u
+          set -euo pipefail
           sleep 5
-          for f in \
-            proxy_added.list \
-            direct_added.list \
-            reject_added.list \
-            proxy.list \
-            direct.list \
-            reject.list \
-            oxidns/proxy_added.txt \
-            oxidns/direct_added.txt \
-            oxidns/reject_added.txt \
-            oxidns/proxy.txt \
-            oxidns/direct.txt \
-            oxidns/reject.txt
-          do
-            url="https://purge.jsdelivr.net/gh/ciallothu/proxy_rules@main/${f}"
+
+          mapfile -t published_files < <(
+            python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("DIST_MANIFEST.json").read_text(encoding="utf-8"))
+          for path in manifest["files"]:
+              print(path)
+          PY
+          )
+
+          failures=0
+          for file in "${published_files[@]}"; do
+            url="https://purge.jsdelivr.net/gh/ciallothu/proxy_rules@main/${file}"
             echo "Purging ${url}"
             curl \
               --fail \
@@ -85,5 +117,9 @@ jobs:
               --retry 5 \
               --retry-delay 2 \
               --retry-all-errors \
-              "${url}" || true
+              "${url}" || failures=$((failures + 1))
           done
+
+          if [ "${failures}" -gt 0 ]; then
+            echo "Warning: ${failures} jsDelivr purge requests failed."
+          fi
