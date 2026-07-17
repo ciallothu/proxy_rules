@@ -16618,7 +16618,6 @@ domain:hacksear.ch
 domain:hackthedrive.com
 domain:hackyourconsole.com
 domain:hadesex.com
-domain:haha888.xyz
 domain:haho.moe
 domain:haicomdc.com
 domain:haicomdc.ru
@@ -21392,6 +21391,7 @@ domain:netsurf-browser.org
 domain:nettyinternet.com
 domain:netvideogirls.com
 domain:netvigator.com
+domain:netxh.blog
 domain:netzerobuildings.com
 domain:netzerobuildingstudio.com
 domain:neuerporno.com
