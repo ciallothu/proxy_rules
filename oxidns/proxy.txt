@@ -16618,6 +16618,7 @@ domain:hacksear.ch
 domain:hackthedrive.com
 domain:hackyourconsole.com
 domain:hadesex.com
+domain:haha888.xyz
 domain:haho.moe
 domain:haicomdc.com
 domain:haicomdc.ru
@@ -23550,6 +23551,7 @@ domain:qmov.com
 domain:qmov.net
 domain:qmttqg3k.me
 domain:qnap.com
+domain:qnapsupport.net
 domain:qobuz.com
 domain:qoder.com
 domain:qombol.com
