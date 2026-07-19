@@ -108,6 +108,7 @@ domain:17t17p.com
 domain:18board.com
 domain:18board.info
 domain:18comic.org
+domain:18comic.vip
 domain:18mh.net
 domain:18onlygirls.com
 domain:18p2p.com
@@ -8212,7 +8213,6 @@ domain:18comic-god.club
 domain:18comic-god.xyz
 domain:18comic.cc
 domain:18comic.company
-domain:18comic.vip
 domain:18commic.com
 domain:18doujin.com
 domain:18doujinshi.xyz
