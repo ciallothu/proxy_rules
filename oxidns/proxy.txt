@@ -1196,6 +1196,7 @@ domain:cixiaoya.club
 domain:ck101.com
 domain:cl.ly
 domain:clarionproject.org
+domain:clashyun.com
 domain:classicalguitarblog.net
 domain:claude.com
 domain:clb.org.hk
@@ -5269,6 +5270,7 @@ domain:syncback.com
 domain:synergyse.com
 domain:syosetu.com
 domain:sysresccd.org
+domain:sysub.com
 domain:sytes.net
 domain:syx86.com
 domain:szbbs.net
@@ -7939,6 +7941,7 @@ full:time5.facebook.com
 full:tlmr-hamivideo2.cdn.hinet.net
 full:tmdb-image-prod.b-cdn.net
 full:tmdb-web-image-prod.b-cdn.net
+full:trojan-gfw.github.io
 full:tv.applemusic.com
 full:tvcastlive-hamivideo.cdn.hinet.net
 full:ubisoft-orbit-savegames.s3.amazonaws.com
@@ -8108,6 +8111,7 @@ full:wwis-dubc1-vip99.adobe.com
 full:www-cdn.icloud.com.akadns.net
 full:www.microsoft.com
 full:www.quora.com.cdn.cloudflare.net
+full:xtls.github.io
 full:yangzhi.app
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
@@ -11017,6 +11021,7 @@ domain:berkanawireless.com
 domain:berkeley.edu
 domain:berlincompanions.com
 domain:best-sex-games.com
+domain:best2pay.net
 domain:best4bim.com
 domain:bestbeats4u.com
 domain:bestbhy.com
@@ -14851,6 +14856,8 @@ domain:exxxtrasmall1.com
 domain:f-dro1d.org
 domain:f-droid.com
 domain:f-secure.com
+domain:f1.com
+domain:f1tv.com
 domain:f5pf.com
 domain:f6.dev
 domain:f6.ru
@@ -15542,6 +15549,7 @@ domain:forgecdn.net
 domain:forhertube.com
 domain:formit360.com
 domain:formitfactory.com
+domain:formula1.com
 domain:forpojie.pics
 domain:forshtadt.ru
 domain:fortawesome.com
@@ -17507,6 +17515,7 @@ domain:huohaore.net
 domain:hussiepass.com
 domain:hutao.cloud
 domain:hutpromos.com
+domain:hva.im
 domain:hwgo.com
 domain:hwslabs.com
 domain:hxcsxs.pro
@@ -23729,8 +23738,10 @@ domain:rbmavericks.com
 domain:rbnainternational.com
 domain:rbplc.com
 domain:rbrandlibrary.com
+domain:rbsgate.com
 domain:rbsgr.com
 domain:rbspeakup.com
+domain:rbsuat.com
 domain:rbth.com
 domain:rbx.com
 domain:rbxcdn.com
