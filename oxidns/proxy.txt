@@ -5627,6 +5627,7 @@ domain:toggleable.com
 domain:toh.info
 domain:token.im
 domain:tokenlon.im
+domain:tokenplus.app
 domain:tokyo-247.com
 domain:tokyo-hot.com
 domain:tokyocn.com
@@ -6634,6 +6635,7 @@ domain:zello.com
 domain:zengjinyan.org
 domain:zenmate.com
 domain:zenmate.com.ru
+domain:zenmux.ai
 domain:zerohedge.com
 domain:zeronet.io
 domain:zeutch.com
@@ -7285,7 +7287,6 @@ domain:tn1.shemalez.com
 domain:tn2.shemalez.com
 domain:tn3.shemalez.com
 domain:to-porno.com
-domain:tokenplus.app
 domain:tokyo-porn-tube.com
 domain:toppornsites.com
 domain:tosh.comedycentral.com
@@ -7374,7 +7375,6 @@ domain:youtube.com
 domain:youtubeeducation.com
 domain:youtubegaming.com
 domain:youtubekids.com
-domain:zenmux.ai
 domain:zh-hans.cfsh99.com
 domain:zh.ecdm.wikia.com
 domain:zh.pokerstrategy.com
