@@ -14,6 +14,7 @@ PUBLISHED_FILES = (
     "proxy_added.list",
     "direct_added.list",
     "reject_added.list",
+    "zju.list",
     "proxy.list",
     "direct.list",
     "reject.list",
