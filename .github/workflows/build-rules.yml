@@ -11,13 +11,7 @@ on:
       - "tools/build_rules.py"
       - "tools/build_dist_manifest.py"
       - "DIST_MANIFEST.json"
-      - "proxy_added.list"
-      - "direct_added.list"
-      - "reject_added.list"
-      - "proxy.list"
-      - "direct.list"
-      - "reject.list"
-      - "zju.list"
+      - "*.list"
       - "oxidns/**"
       - ".github/workflows/build-rules.yml"
       - "README.md"
@@ -56,7 +50,6 @@ jobs:
             python3 - <<'PY'
           import json
           from pathlib import Path
-
           manifest = json.loads(Path("DIST_MANIFEST.json").read_text(encoding="utf-8"))
           for path in manifest["files"]:
               print(path)
@@ -71,7 +64,6 @@ jobs:
             python3 - <<'PY'
           import json
           from pathlib import Path
-
           manifest = json.loads(Path("DIST_MANIFEST.json").read_text(encoding="utf-8"))
           for path in manifest["files"]:
               print(path)
@@ -99,7 +91,6 @@ jobs:
             python3 - <<'PY'
           import json
           from pathlib import Path
-
           manifest = json.loads(Path("DIST_MANIFEST.json").read_text(encoding="utf-8"))
           for path in manifest["files"]:
               print(path)
@@ -110,15 +101,7 @@ jobs:
           for file in "${published_files[@]}"; do
             url="https://purge.jsdelivr.net/gh/ciallothu/proxy_rules@main/${file}"
             echo "Purging ${url}"
-            curl \
-              --fail \
-              --location \
-              --silent \
-              --show-error \
-              --retry 5 \
-              --retry-delay 2 \
-              --retry-all-errors \
-              "${url}" || failures=$((failures + 1))
+            curl --fail --location --silent --show-error --retry 5 --retry-delay 2 --retry-all-errors "${url}" || failures=$((failures + 1))
           done
 
           if [ "${failures}" -gt 0 ]; then
