@@ -1173,6 +1173,7 @@ domain:ciciai.com
 domain:cienen.com
 domain:cineastentreff.de
 domain:cipfg.org
+domain:circle19.org
 domain:circlethebayfortibet.org
 domain:cirosantilli.com
 domain:citizencn.com
@@ -3166,6 +3167,7 @@ domain:kanzhongguo.com
 domain:kanzhongguo.eu
 domain:kaotic.com
 domain:karayou.com
+domain:kards.com
 domain:karkhung.com
 domain:karmapa-teachings.org
 domain:karmapa.org
@@ -13881,6 +13883,7 @@ domain:docleradn.com
 domain:doclercdn.com
 domain:docs.com
 domain:docs.rs
+domain:docs.rw
 domain:doctor-videos.com
 domain:documentforce.com
 domain:dodgersexcartoons.com
@@ -19525,6 +19528,7 @@ domain:localizecdn.com
 domain:localizejs.com
 domain:localizestatus.com
 domain:localxlist.org
+domain:log.rw
 domain:logi.com
 domain:logicool.co.jp
 domain:logicoolg.com
@@ -26377,6 +26381,7 @@ domain:truyenhentai.xyz
 domain:truyenkk1.com
 domain:truyentranh86.com
 domain:truyenwk.com
+domain:try.rw
 domain:tryalias.com
 domain:tryboobs.com
 domain:trycloudflare.com
