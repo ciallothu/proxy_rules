@@ -221,7 +221,6 @@ domain:360webcache.com
 domain:360zhyx.com
 domain:360zqaq.com
 domain:365azw.com
-domain:365yg.com
 domain:36dianping.com
 domain:36kr.com
 domain:36krcdn.com
@@ -466,7 +465,6 @@ domain:alloyteam.com
 domain:alphassl.com
 domain:amap.com
 domain:amapauto.com
-domain:amemv.com
 domain:andfx.net
 domain:anfensi.com
 domain:animebytes.tv
@@ -1616,7 +1614,6 @@ domain:huochepiao.com
 domain:huocheso.com
 domain:huoshan.com
 domain:huoshanstatic.com
-domain:huoshanzhibo.com
 domain:hupu.com
 domain:hupucdn.com
 domain:huxiu.com
@@ -24015,8 +24012,6 @@ domain:chengyun.com
 domain:chengyuwan.com
 domain:chengzhaoxi.xyz
 domain:chengzhinj.com
-domain:chengzijianzhan.cc
-domain:chengzijianzhan.com
 domain:chengzivr.com
 domain:chengziyuanma.com
 domain:chenhe.cc
@@ -30101,7 +30096,6 @@ domain:dailianzj.com
 domain:dailijizhang.cc
 domain:dailugou.com
 domain:dailybing.com
-domain:dailygn.com
 domain:dailyqd.com
 domain:daimafans.com
 domain:daimagongfang.com
@@ -55872,7 +55866,6 @@ domain:jinr.com
 domain:jinridiaoyu.com
 domain:jinrirm.com
 domain:jinritemai-inc.com
-domain:jinritemai.com
 domain:jinritoutiao.com
 domain:jinriwushi.com
 domain:jinrixing.cc

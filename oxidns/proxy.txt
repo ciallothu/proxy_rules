@@ -7294,6 +7294,7 @@ domain:toppornsites.com
 domain:tosh.comedycentral.com
 domain:trade.futunn.com
 domain:trade.longportapp.com
+domain:tryai.dev
 domain:tsdr.uspto.gov
 domain:ttvnw.net
 domain:tubepornclassic.com
@@ -16301,6 +16302,7 @@ domain:githubhackathon.com
 domain:githubnext.com
 domain:githubpreview.dev
 domain:githubstatus.com
+domain:githubsupport.com
 domain:githubuniverse.com
 domain:gitlab-static.net
 domain:gitstar.com
