@@ -5701,6 +5701,7 @@ domain:truth101.co.tv
 domain:truthontour.org
 domain:truthsocial.com
 domain:truveo.com
+domain:tryai.dev
 domain:tryheart.jp
 domain:tsctv.net
 domain:tsemtulku.com
@@ -7294,7 +7295,6 @@ domain:toppornsites.com
 domain:tosh.comedycentral.com
 domain:trade.futunn.com
 domain:trade.longportapp.com
-domain:tryai.dev
 domain:tsdr.uspto.gov
 domain:ttvnw.net
 domain:tubepornclassic.com
@@ -11379,6 +11379,7 @@ domain:bluehatnights.com
 domain:bluemix.com
 domain:bluemix.net
 domain:bluestacks.com
+domain:blurams.app
 domain:blurams.com
 domain:blylq.buzz
 domain:blz-contentstack.com
@@ -12459,6 +12460,7 @@ domain:celeron.net
 domain:cell.com
 domain:cencoastbmw.com
 domain:cenkei.com
+domain:ceno.app
 domain:censorship.ai
 domain:censorship.no
 domain:centervillage.co.jp
@@ -18539,6 +18541,7 @@ domain:itunesu.net
 domain:ius.io
 domain:iutunes.com
 domain:ivi.ru
+domain:ivicdn.tv
 domain:ivintageporn.com
 domain:iwank.tv
 domain:iwantavnow.com
@@ -19138,6 +19141,7 @@ domain:kindleoasisnews.com
 domain:kindleproject.com
 domain:kindnudist.com
 domain:kindteenporn.com
+domain:kinescopecdn.net
 domain:kingcomix.com
 domain:kingextre.me
 domain:kingf-av.buzz
@@ -24309,6 +24313,7 @@ domain:sber.pro
 domain:sber.ru
 domain:sberauto.com
 domain:sberbank-insurance.ru
+domain:sberbank-tele.com
 domain:sberbank.com
 domain:sberbank.ru
 domain:sberbankaktivno.ru
