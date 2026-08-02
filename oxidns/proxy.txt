@@ -7211,6 +7211,7 @@ domain:news.tvbs.com.tw
 domain:news.ycombinator.com
 domain:nic.cz.cc
 domain:nikke.hotcool.tw
+domain:nthlink.com
 domain:nytimes.map.fastly.net
 domain:old.honeynet.org
 domain:one.one.one.one
@@ -8733,6 +8734,7 @@ domain:acrobat.com
 domain:acs.org
 domain:actalis.com
 domain:actalis.it
+domain:actifio.com
 domain:activelearnprimary.co.uk
 domain:activelearnprimary.com.au
 domain:activematter.game
@@ -11229,7 +11231,6 @@ domain:binancezh.be
 domain:binancezh.biz
 domain:binancezh.co
 domain:binancezh.com
-domain:binancezh.info
 domain:binancezh.ink
 domain:binancezh.kim
 domain:binancezh.link
@@ -13091,7 +13092,6 @@ domain:crosswalk-project.com
 domain:crosswalk-project.net
 domain:crowdtangle.com
 domain:crr.com
-domain:crsed.net
 domain:crtsgfb1.top
 domain:cruel-furies.com
 domain:crustwebsites.net
@@ -13939,7 +13939,6 @@ domain:dontbubble.us
 domain:donttrack.us
 domain:doodhwali.com
 domain:doom.com
-domain:dopaminegirl.com
 domain:doseofporn.com
 domain:dot-mac.de
 domain:dot.net
@@ -18779,7 +18778,10 @@ domain:jessicaturner.com
 domain:jetbrains.ai
 domain:jetbrains.cloud
 domain:jetbrains.com
+domain:jetbrains.dev
 domain:jetbrains.net
+domain:jetbrains.org
+domain:jetbrains.ru
 domain:jetbrains.space
 domain:jetbrains.team
 domain:jetfuelapp.com
@@ -19235,6 +19237,8 @@ domain:korewaeroi.com
 domain:korona.com
 domain:koshelek.app
 domain:kostenlosepornoclips.com
+domain:kotl.in
+domain:kotlinconf.com
 domain:kotlinlang.org
 domain:koubaibu.jp
 domain:koukoku.jp
@@ -19257,6 +19261,7 @@ domain:ksd235qw.com
 domain:ksescortclub.com
 domain:ksyp10.com
 domain:ktech.team
+domain:ktor.io
 domain:ktvu.com
 domain:ku77.xyz
 domain:kuaimao-app.com
@@ -21187,6 +21192,7 @@ domain:myhtlmebook.com
 domain:myhulu.com
 domain:myicloud.net
 domain:myipod.net
+domain:myjetbrains.com
 domain:myjkwd.com
 domain:mylcloud.net
 domain:mylf.com
@@ -22281,6 +22287,7 @@ domain:openvinotoolkit.org
 domain:openweather.co.uk
 domain:openweathermap.org
 domain:openweave.io
+domain:openxla.org
 domain:opinionjournal.com
 domain:oppai-doga.info
 domain:oppainorakuen.com
@@ -22898,7 +22905,6 @@ domain:plasticlabs.com
 domain:plastics-cadcam.com
 domain:platiecom.ru
 domain:platinumlinks.org
-domain:platov.co
 domain:play-bmm.shop
 domain:play-bmmer.buzz
 domain:play4free.com
@@ -25776,6 +25782,7 @@ domain:takporn.com
 domain:talantix.ru
 domain:talentlens.com
 domain:taleofthenight.com
+domain:talkingkotlin.com
 domain:talksport.com
 domain:tamilsexvideos.cc
 domain:tampermonkey.net

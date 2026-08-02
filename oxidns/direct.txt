@@ -54246,6 +54246,7 @@ domain:jbtxy.net
 domain:jbwave.com
 domain:jbxy.com
 domain:jbyy120.com
+domain:jbzj.com
 domain:jbzpw.com
 domain:jbzyk.com
 domain:jbzyw.com
@@ -91770,7 +91771,6 @@ domain:uqude.com
 domain:uqulive.com
 domain:urart.cc
 domain:urbanchina.org
-domain:urbanfind.club
 domain:urbanmatters.com
 domain:urbansocialwork.org
 domain:urbetter.com
