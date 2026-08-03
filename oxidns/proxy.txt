@@ -1033,6 +1033,7 @@ domain:centauro.com.br
 domain:centerforhumanreprod.com
 domain:centralnation.com
 domain:centurys.net
+domain:cerebras.ai
 domain:certificate-transparency.org
 domain:cex.io
 domain:cfhks.org.hk
@@ -1160,6 +1161,7 @@ domain:chromeexperiments.com
 domain:chromercise.com
 domain:chromestatus.com
 domain:chromium.org
+domain:cht.com.tw
 domain:chuang-yen.org
 domain:chubold.com
 domain:chubun.com
@@ -3737,7 +3739,6 @@ domain:mousebreaker.com
 domain:movements.org
 domain:moves-export.com
 domain:moviefap.com
-domain:mozilla.ai
 domain:mozilla.org
 domain:moztw.org
 domain:mp3buscador.com
@@ -4052,6 +4053,7 @@ domain:ntdtv.cz
 domain:ntdtv.jp
 domain:ntdtv.ru
 domain:ntdtvla.com
+domain:nthlink.com
 domain:ntrfun.com
 domain:ntu.edu.tw
 domain:nu.nl
@@ -4598,7 +4600,6 @@ domain:radio.co
 domain:radio.garden
 domain:radioaustralia.net.au
 domain:radiohilight.net
-domain:radiojar.com
 domain:radioline.co
 domain:radiotime.com
 domain:radiovaticana.org
@@ -6397,7 +6398,6 @@ domain:wuw.red
 domain:wuyanblog.com
 domain:wwe.com
 domain:wwitv.com
-domain:www.clashverge.dev
 domain:www.lamenhu.com
 domain:www.orchidbbs.com
 domain:www.taup.org.tw
@@ -7211,7 +7211,6 @@ domain:news.tvbs.com.tw
 domain:news.ycombinator.com
 domain:nic.cz.cc
 domain:nikke.hotcool.tw
-domain:nthlink.com
 domain:nytimes.map.fastly.net
 domain:old.honeynet.org
 domain:one.one.one.one
@@ -12481,7 +12480,6 @@ domain:cepacol.ca
 domain:cepacol.com
 domain:ceramics-cadcam.com
 domain:cerdas.com
-domain:cerebras.ai
 domain:cern.ch
 domain:cert-gib.com
 domain:cert-gib.ru
@@ -12638,7 +12636,6 @@ domain:chromebook.com
 domain:chromeos.dev
 domain:chronicle.security
 domain:chroniclesec.com
-domain:cht.com.tw
 domain:chtf.org.tw
 domain:chuangb15.xyz
 domain:chubbypornonly.com
@@ -20945,6 +20942,7 @@ domain:mozgcp.net
 domain:mozilla-europe.org
 domain:mozilla-hispano.org
 domain:mozilla-mexico.org
+domain:mozilla.ai
 domain:mozilla.com
 domain:mozilla.community
 domain:mozilla.cz
@@ -29652,6 +29650,7 @@ domain:packagephobia.com
 domain:prowritingaid.com
 domain:redbullracing.com
 domain:thaiheadlines.com
+domain:trainingpeaks.com
 domain:wikifunctions.org
 domain:xpressunblock.com
 domain:dnsleak.asn247.net
