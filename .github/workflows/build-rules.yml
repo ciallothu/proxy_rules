@@ -10,9 +10,11 @@ on:
     paths:
       - "tools/build_rules.py"
       - "tools/build_dist_manifest.py"
+      - "tools/fetch_geox.py"
       - "DIST_MANIFEST.json"
       - "*.list"
       - "oxidns/**"
+      - "geox/**"
       - ".github/workflows/build-rules.yml"
       - "README.md"
 
@@ -40,10 +42,13 @@ jobs:
       - name: Build consolidated rule files
         run: python3 tools/build_rules.py
 
+      - name: Download GeoX assets
+        run: python3 tools/fetch_geox.py
+
       - name: Build distribution manifest
         run: python3 tools/build_dist_manifest.py
 
-      - name: Show generated diff
+      - name: Show generated changes
         run: |
           set -euo pipefail
           mapfile -t published_files < <(
@@ -55,6 +60,7 @@ jobs:
               print(path)
           PY
           )
+          git status --short -- "${published_files[@]}" DIST_MANIFEST.json
           git diff -- "${published_files[@]}" DIST_MANIFEST.json
 
       - name: Commit generated files
@@ -71,15 +77,15 @@ jobs:
           )
           generated_files=("${published_files[@]}" "DIST_MANIFEST.json")
 
-          if git diff --quiet -- "${generated_files[@]}"; then
-            echo "No rule or distribution-manifest changes."
+          if [ -z "$(git status --porcelain -- "${generated_files[@]}")" ]; then
+            echo "No rule, GeoX, or distribution-manifest changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- "${generated_files[@]}"
-          git commit -m "Build consolidated rules"
+          git commit -m "Build consolidated rules and GeoX assets"
           git push
 
       - name: Purge jsDelivr cache
