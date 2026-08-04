@@ -8,11 +8,12 @@ ROOT = Path(__file__).resolve().parents[1]
 MANIFEST_PATH = ROOT / "DIST_MANIFEST.json"
 
 # Single source of truth for files published through jsDelivr.
-# Root-level portable rule lists and generated DNS rule files are published.
+# Root-level portable rule lists, generated DNS rule files, and GeoX assets are published.
 PUBLISHED_FILES = tuple(
     sorted(
         [path.name for path in ROOT.glob("*.list")]
         + [str(path.relative_to(ROOT)) for path in (ROOT / "oxidns").glob("*.txt")]
+        + [str(path.relative_to(ROOT)) for path in (ROOT / "geox").glob("*.dat")]
     )
 )
 
