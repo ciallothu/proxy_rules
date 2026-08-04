@@ -4,6 +4,8 @@
   "files": [
     "direct.list",
     "direct_added.list",
+    "geox/geoip.dat",
+    "geox/geosite.dat",
     "oxidns/direct.txt",
     "oxidns/direct_added.txt",
     "oxidns/proxy.txt",
