@@ -13332,6 +13332,8 @@ domain:deepfreeze.eu
 domain:deepfreeze.net
 domain:deepfreeze.tech
 domain:deepl.com
+domain:deepwiki.com
+domain:deepwiki.org
 domain:definefetish.com
 domain:degruyter.com
 domain:del.com
@@ -15531,8 +15533,11 @@ domain:fluidfxapp.com
 domain:fluidpreview.com
 domain:flutter.dev
 domain:flutterapp.com
+domain:fly.dev
+domain:fly.io
 domain:flyflv.com
 domain:flyingjizz.com
+domain:flyio.net
 domain:flyyindh-cc.sbs
 domain:fm4.jp
 domain:fmav.top
@@ -16329,6 +16334,7 @@ domain:glam0ur.com
 domain:glamourtits.com
 domain:glasamerike.net
 domain:gleline.com
+domain:glitchwave.com
 domain:global-sci.org
 domain:globaledu.org
 domain:globalriskregulator.com
@@ -22386,14 +22392,17 @@ domain:ozodlik.org
 domain:ozon-credit.ru
 domain:ozon-dostavka.ru
 domain:ozon-tech.ru
+domain:ozon.app
 domain:ozon.by
 domain:ozon.com
 domain:ozon.com.by
 domain:ozon.com.kz
 domain:ozon.dev
 domain:ozon.express
+domain:ozon.global
 domain:ozon.kz
 domain:ozon.li
+domain:ozon.market
 domain:ozon.ru
 domain:ozon.tech
 domain:ozon.tm
@@ -24194,12 +24203,14 @@ domain:rutracker.cc
 domain:rutracker.cr
 domain:rutracker.me
 domain:rutracker.nl
+domain:rutube.sport
 domain:rutubelist.ru
 domain:ruvideos.net
 domain:rwb.ru
 domain:rwbautomation.ru
 domain:rwbautomation.tech
 domain:rwbgeo.ru
+domain:rym.fm
 domain:ryokoyomiuri.co.jp
 domain:ryukyubank.co.jp
 domain:rzr.to
@@ -25054,6 +25065,7 @@ domain:snjulebu.com
 domain:snk-corp.co.jp
 domain:snk-corp.info
 domain:snkplaymore.info
+domain:snmc.io
 domain:snow.me
 domain:snowcorp.com
 domain:snowmiku.com
@@ -25097,6 +25109,8 @@ domain:solidifi.app
 domain:solostudioksale.com
 domain:solutionstation.com
 domain:solveforx.com
+domain:sonematic.net
+domain:sonemic.com
 domain:sonorousporn.com
 domain:sony-africa.com
 domain:sony-asia.com
@@ -29342,7 +29356,6 @@ full:apple-relay.fastly-edge.com
 domain:24.com
 domain:2ch.sc
 domain:eu.org
-domain:fly.io
 domain:g2.com
 domain:imo.im
 domain:jav.pw
@@ -29357,7 +29370,6 @@ domain:cal.com
 domain:cdpn.io
 domain:cuty.io
 domain:draw.io
-domain:fly.dev
 domain:gnc.com
 domain:muku.tv
 domain:ny1.com

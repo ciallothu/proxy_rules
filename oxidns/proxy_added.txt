@@ -56,6 +56,7 @@ domain:immersivetranslate.com
 domain:api-status.longbridgeapp.com
 domain:api.lbkrs.com
 domain:ultramobile.com
+domain:duolinguo.com
 full:www.alicesw.com
 full:proxycheck.io
 full:my.ippure.com
