@@ -36,7 +36,6 @@ domain:guzzoni.apple.com
 domain:gvt1.com
 domain:immersivetranslate.com
 domain:itellyou.cn
-domain:juejin.cn
 domain:letsbuildthe.cloud
 domain:linuxcontainers.org
 domain:live.com
