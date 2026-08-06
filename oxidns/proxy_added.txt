@@ -57,6 +57,7 @@ domain:api-status.longbridgeapp.com
 domain:api.lbkrs.com
 domain:ultramobile.com
 domain:duolinguo.com
+domain:juejin.cn
 full:www.alicesw.com
 full:proxycheck.io
 full:my.ippure.com
