@@ -1894,6 +1894,7 @@ domain:fanswong.com
 domain:fantv.hk
 domain:fanyue.info
 domain:faproxy.com
+domain:faqserv.com
 domain:farwestchina.com
 domain:fast.com
 domain:fastestvpn.com
@@ -4567,6 +4568,7 @@ domain:qiwen.lu
 domain:qkshare.com
 domain:qmp4.com
 domain:qoos.com
+domain:qpoe.com
 domain:qq.co.za
 domain:qstatus.com
 domain:qtrac.eu
@@ -6745,7 +6747,6 @@ domain:appledaily.com.tw
 domain:apps.evozi.com
 domain:assets.bwbx.io
 domain:auctions.yahoo.co.jp
-domain:auntology.fandom.com
 domain:bartender.dowjones.com
 domain:bbs.cantonese.asia
 domain:bbs.hanminzu.org
@@ -7156,7 +7157,6 @@ domain:hka8964.wordpress.com
 domain:hkanews.wordpress.com
 domain:hkcoc.weather.com.hk
 domain:hole.thu.monster
-domain:hongkong.fandom.com
 domain:horrorporn.com
 domain:hqsbnet.wordpress.com
 domain:hqsbonline.wordpress.com
@@ -15415,6 +15415,7 @@ domain:financeleadsonline.com
 domain:financialadvisoriq.com
 domain:financialsoccer.ca
 domain:fincode.jp
+domain:find-a.jp
 domain:find-apple.com
 domain:findacard.com
 domain:findasians.live
