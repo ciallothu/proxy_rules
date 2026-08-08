@@ -210,7 +210,6 @@ domain:360jie.com
 domain:360jinrong.net
 domain:360jq.com
 domain:360kan.com
-domain:360kuai.com
 domain:360safe.com
 domain:360shouji.com
 domain:360taojin.com
@@ -3278,7 +3277,6 @@ domain:xuexi365.com
 domain:xuexi365.net
 domain:xuexicha.com
 domain:xueyuanjun.com
-domain:xundupdf.com
 domain:xunfeixxj.com
 domain:xunlei.com
 domain:xunyou.com
@@ -7919,7 +7917,6 @@ domain:360qws.com
 domain:360qyaq.com
 domain:360safedns.com
 domain:360shouzhuan.com
-domain:360shuke.com
 domain:360shuoshuo.com
 domain:360simg.com
 domain:360sjrom.com
@@ -62080,6 +62077,7 @@ domain:lifeup.vip
 domain:lifevc.com
 domain:lifevccdn.com
 domain:lifeweeker.com
+domain:lifexue.com
 domain:lifeyk.com
 domain:lifeyn.net
 domain:lifezb.com
@@ -79967,7 +79965,6 @@ domain:selgrospl.com
 domain:selinuxplus.com
 domain:sellerspace.com
 domain:sellersprite.com
-domain:sellfox.com
 domain:sellingexpress.net
 domain:selypan.com
 domain:sem123.com
@@ -97780,7 +97777,6 @@ domain:xianyuwang.com
 domain:xianyuyouxi.com
 domain:xianzhanget.com
 domain:xianzhi.net
-domain:xianzhice.com
 domain:xianzhid.com
 domain:xianzhongwang.com
 domain:xianzidaer.com
@@ -97860,7 +97856,6 @@ domain:xiaodigu.com
 domain:xiaoding110.com
 domain:xiaodingchui.com
 domain:xiaodiyouxi.com
-domain:xiaodongrui.com
 domain:xiaodongxier.com
 domain:xiaodoubi.com
 domain:xiaodoukj.com

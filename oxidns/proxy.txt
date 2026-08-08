@@ -1894,7 +1894,6 @@ domain:fanswong.com
 domain:fantv.hk
 domain:fanyue.info
 domain:faproxy.com
-domain:faqserv.com
 domain:farwestchina.com
 domain:fast.com
 domain:fastestvpn.com
@@ -15415,7 +15414,6 @@ domain:financeleadsonline.com
 domain:financialadvisoriq.com
 domain:financialsoccer.ca
 domain:fincode.jp
-domain:find-a.jp
 domain:find-apple.com
 domain:findacard.com
 domain:findasians.live
