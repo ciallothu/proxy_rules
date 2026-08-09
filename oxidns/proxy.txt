@@ -4567,7 +4567,6 @@ domain:qiwen.lu
 domain:qkshare.com
 domain:qmp4.com
 domain:qoos.com
-domain:qpoe.com
 domain:qq.co.za
 domain:qstatus.com
 domain:qtrac.eu
@@ -11240,6 +11239,7 @@ domain:binancezh.be
 domain:binancezh.biz
 domain:binancezh.co
 domain:binancezh.com
+domain:binancezh.info
 domain:binancezh.ink
 domain:binancezh.kim
 domain:binancezh.link
@@ -13104,6 +13104,7 @@ domain:crosswalk-project.com
 domain:crosswalk-project.net
 domain:crowdtangle.com
 domain:crr.com
+domain:crsed.net
 domain:crtsgfb1.top
 domain:cruel-furies.com
 domain:crustwebsites.net
@@ -13959,6 +13960,7 @@ domain:dontbubble.us
 domain:donttrack.us
 domain:doodhwali.com
 domain:doom.com
+domain:dopaminegirl.com
 domain:doseofporn.com
 domain:dot-mac.de
 domain:dot.net
@@ -22945,6 +22947,7 @@ domain:plasticlabs.com
 domain:plastics-cadcam.com
 domain:platiecom.ru
 domain:platinumlinks.org
+domain:platov.co
 domain:play-bmm.shop
 domain:play-bmmer.buzz
 domain:play4free.com
