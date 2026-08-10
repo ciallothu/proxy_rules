@@ -3001,6 +3001,7 @@ domain:itaboo.info
 domain:italiatibet.org
 domain:itasoftware.com
 domain:itch.io
+domain:itemdb.com
 domain:itemfix.com
 domain:itgonglun.com
 domain:ithome.com.tw
@@ -6725,6 +6726,7 @@ domain:addons.mozilla.org
 domain:addyoutube.com
 domain:admin.recaptcha.net
 domain:agoogleaday.com
+domain:aihub.top
 domain:akamai.tvb.com
 domain:anthropic.com
 domain:api-gl.lbkrs.com
@@ -6746,6 +6748,7 @@ domain:apps.evozi.com
 domain:assets.bwbx.io
 domain:auctions.yahoo.co.jp
 domain:bartender.dowjones.com
+domain:basemaps.arcgis.com
 domain:bbs.cantonese.asia
 domain:bbs.hanminzu.org
 domain:bbs.junglobal.net
@@ -6883,8 +6886,10 @@ domain:ebook.hyread.com.tw
 domain:en.favotter.net
 domain:eporner.com
 domain:esg.t91y.com
+domain:esim.redteago.com
 domain:etools.ncol.com
 domain:evchk.wikia.com
+domain:experience.arcgis.com
 domain:facebook.com
 domain:facebook.de
 domain:facebook.design
