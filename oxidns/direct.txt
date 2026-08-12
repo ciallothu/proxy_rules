@@ -26276,6 +26276,7 @@ domain:cmfish.com
 domain:cmfspay.com
 domain:cmft.com
 domain:cmfwiper.com
+domain:cmgadx.com
 domain:cmgame.com
 domain:cmgchengdu.com
 domain:cmgdb.com
@@ -84612,6 +84613,7 @@ domain:steamdt.com
 domain:steamgift.site
 domain:steamhost.info
 domain:steammm.com
+domain:steamproxy.net
 domain:steampy.com
 domain:steamrepcn.com
 domain:stec.net
