@@ -6580,6 +6580,7 @@ domain:1949idc.com
 domain:194nb.com
 domain:195155.com
 domain:195268032591463.icu
+domain:1958xy.com
 domain:195idc.com
 domain:196b7adb23969e39.com
 domain:196g.com
@@ -8112,6 +8113,7 @@ domain:36dong.com
 domain:36hjob.com
 domain:36jr.com
 domain:36kr.net
+domain:36linkr.com
 domain:36pnes36t0qs.com
 domain:36qp.com
 domain:36rv3j3.shop
@@ -17614,7 +17616,6 @@ domain:bamaying.com
 domain:bamboofactorychina.com
 domain:bambooolab.com
 domain:bambu-lab.com
-domain:bambulab.com
 domain:bamengame.com
 domain:bamensq.com
 domain:bamuwu.com
@@ -20058,6 +20059,7 @@ domain:bkrgame.com
 domain:bkscc.com
 domain:bktsj.com
 domain:bkweek.com
+domain:bkzhibo.com
 domain:bkzzy.com
 domain:bl.com
 domain:bl0757.com
@@ -26276,7 +26278,6 @@ domain:cmfish.com
 domain:cmfspay.com
 domain:cmft.com
 domain:cmfwiper.com
-domain:cmgadx.com
 domain:cmgame.com
 domain:cmgchengdu.com
 domain:cmgdb.com
@@ -54451,6 +54452,7 @@ domain:jgsdaily.com
 domain:jgsemicon.com
 domain:jgstour.com
 domain:jgsxfw.com
+domain:jgtab.link
 domain:jgtc315.com
 domain:jguanjia.com
 domain:jgums.com
@@ -56137,6 +56139,7 @@ domain:jkydt.com
 domain:jkyule.com
 domain:jkzhilu.com
 domain:jkzl.com
+domain:jkzlrs.com
 domain:jkzn365.com
 domain:jl-er.com
 domain:jl-jssk.com
@@ -57756,6 +57759,7 @@ domain:juwangmedia.com
 domain:juwanhezi.com
 domain:juwanshe.com
 domain:juweixin.com
+domain:juwinmedia.com
 domain:juxian.com
 domain:juxiang3d.com
 domain:juxieyun.com
@@ -84613,7 +84617,6 @@ domain:steamdt.com
 domain:steamgift.site
 domain:steamhost.info
 domain:steammm.com
-domain:steamproxy.net
 domain:steampy.com
 domain:steamrepcn.com
 domain:stec.net
@@ -85670,6 +85673,7 @@ domain:sxygsj.com
 domain:sxyj.net
 domain:sxyqgs.asia
 domain:sxyyc.net
+domain:sxyygh.com
 domain:sxzhaobiao.com
 domain:sxzhongfei.com
 domain:sxzhyy.com
@@ -97541,6 +97545,7 @@ domain:xhrczp.com
 domain:xhs.com
 domain:xhsd.com
 domain:xhsd.net
+domain:xhsdzd.com
 domain:xhsf.com
 domain:xhslink.com
 domain:xhslw.com
