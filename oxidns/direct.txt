@@ -41623,7 +41623,6 @@ domain:guakaoba.com
 domain:guan-shi.com
 domain:guan.com
 domain:guan5.com
-domain:guance.com
 domain:guanchangnongmu.com
 domain:guanchao.site
 domain:guanchiad.com
@@ -110927,6 +110926,7 @@ domain:soulvoice.club
 domain:orpheus.network
 domain:aidoru-online.me
 domain:cinemageddon.net
+domain:collegeboard.org
 full:captive.apple.com
 domain:hudbt.hust.edu.cn
 full:local.adguard.org

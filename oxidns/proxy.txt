@@ -24171,6 +24171,7 @@ domain:rrtis.com
 domain:rs1024.com
 domain:rs2022.com
 domain:rsc.org
+domain:rsg.ms
 domain:rsg.sc
 domain:rshb.ru
 domain:rsk.co
@@ -24448,6 +24449,7 @@ domain:sbrf.ru
 domain:sbux.com.my
 domain:sbuxcard.com
 domain:sc-cdn.net
+domain:sc-gw.com
 domain:sc.com
 domain:sca-tolo.info
 domain:scala-lang.org
