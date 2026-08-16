@@ -24277,6 +24277,7 @@ domain:rutracker.cc
 domain:rutracker.cr
 domain:rutracker.me
 domain:rutracker.nl
+domain:rutracker.wiki
 domain:rutube.sport
 domain:rutubelist.ru
 domain:ruvideos.net
