@@ -74769,6 +74769,7 @@ domain:qianvisa.com
 domain:qianwa.com
 domain:qianwanku.com
 domain:qianwen.com
+domain:qianwenai.com
 domain:qianxiangbank.com
 domain:qianxibj.net
 domain:qianximiye.com
@@ -86900,7 +86901,6 @@ domain:tailgdd.com
 domain:tailingood.com
 domain:taillkang.com
 domain:tailong.com
-domain:taimei.com
 domain:taimi100.com
 domain:taimls.com
 domain:taininge.online
