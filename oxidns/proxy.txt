@@ -7190,6 +7190,7 @@ domain:lightnovel.cn
 domain:line.naver.jp
 domain:linear-abematv.akamaized.net
 domain:listentoyoutube.com
+domain:livingatlas.arcgis.com
 domain:login.target.com
 domain:lt.sntp.uk
 domain:m.hkgalden.com
