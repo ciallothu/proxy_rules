@@ -3720,7 +3720,6 @@ DOMAIN,adcdownload.apple.com
 DOMAIN,adcdownload.apple.com.akadns.net
 DOMAIN,admob-cn.com
 DOMAIN,adservice.google.com
-DOMAIN,afcs.dell.com
 DOMAIN,ai.zhaomi.cn
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
@@ -3806,7 +3805,6 @@ DOMAIN,clickserver.googleads.com
 DOMAIN,client-api.itunes.apple.com
 DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
-DOMAIN,clientperipherals.dell.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
@@ -3833,7 +3831,6 @@ DOMAIN,cstat.cdn-apple.com
 DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,cueme-api.quark.cn
-DOMAIN,customization-cdn.dell.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dc1-cert.ksn.kaspersky-labs.com
 DOMAIN,dc1-file.ksn.kaspersky-labs.com
@@ -3841,13 +3838,11 @@ DOMAIN,dc1-pp.ksn.kaspersky-labs.com
 DOMAIN,dc1-st.ksn.kaspersky-labs.com
 DOMAIN,dc1.ksn.kaspersky-labs.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
-DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,dg-meta.video.google.com
 DOMAIN,discussionschinese.apple.com
-DOMAIN,dl.dell.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dnl-00.geo.kaspersky.com
@@ -3880,33 +3875,22 @@ DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
-DOMAIN,ea2cn-dev-outlet.dell.com
-DOMAIN,ea2cn-prod-outlet.dell.com
-DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,edge.geo.kaspersky.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
 DOMAIN,entitlements-edge.itunes.apple.com
 DOMAIN,experiments.apple.com
 DOMAIN,f.c2r.ts.cdn.office.net
-DOMAIN,fcs.dell.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fpinit.itunes.apple.com
-DOMAIN,fta.dell.com
-DOMAIN,ftaapj.dell.com
-DOMAIN,ftaemea.dell.com
-DOMAIN,ftasitapj.dell.com
 DOMAIN,g0.gstatic.com
 DOMAIN,g1.gstatic.com
 DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
-DOMAIN,gbxgateway-dev.dell.com
-DOMAIN,gbxgateway.dell.com
 DOMAIN,geetest.datasink.sensorsdata.cn
 DOMAIN,gog.qtlglb.com
 DOMAIN,gonglchuangl.net
@@ -3960,7 +3944,6 @@ DOMAIN,guzzoni.smoot.apple.com
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
 DOMAIN,hospital.pku.edu.cn
-DOMAIN,i.dell.com
 DOMAIN,i.pki.goog
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,images-cn.ssl-images-amazon.com
@@ -4052,7 +4035,6 @@ DOMAIN,musicstatus.music.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
-DOMAIN,nexus.dell.com
 DOMAIN,ntp.aliyun.com
 DOMAIN,ntp.tencent.com
 DOMAIN,ntp1.aliyun.com
@@ -4082,7 +4064,6 @@ DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
-DOMAIN,p.cdn.persaas.dell.com
 DOMAIN,p00.upd.kaspersky.com
 DOMAIN,p01.upd.kaspersky.com
 DOMAIN,p02.upd.kaspersky.com
@@ -4176,7 +4157,6 @@ DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
-DOMAIN,scene7-cdn.dell.com
 DOMAIN,sdx.microsoft.com
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,se2.itunes.apple.com
@@ -4190,11 +4170,7 @@ DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
-DOMAIN,si.cdn.dell.com
-DOMAIN,sm.dell.com
 DOMAIN,smp-device-content.apple.com
-DOMAIN,snp.cdn.dell.com
-DOMAIN,snpi.dell.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,sp.itunes.apple.com
 DOMAIN,speedysub.music.apple.com
@@ -4222,7 +4198,6 @@ DOMAIN,study.163.com
 DOMAIN,su.itunes.apple.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
-DOMAIN,supportassist.dell.com
 DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,swallow-apple-com.v.aaplimg.com
@@ -4246,14 +4221,12 @@ DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,tj-pod2-smp-device.apple.com
 DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN,tools.google.com
-DOMAIN,tp.louisvuitton.com
 DOMAIN,universal-activity-service.itunes.apple.com
 DOMAIN,update.crashlytics.com
 DOMAIN,update.googleapis.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,upp.itunes.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
@@ -4268,13 +4241,10 @@ DOMAIN,weather-map.apple.com
 DOMAIN,weather-map2.apple.com
 DOMAIN,weatherkit.apple.com
 DOMAIN,windbg.download.prss.microsoft.com
-DOMAIN,www-csb.dell.com
 DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
-DOMAIN,www.amd.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
-DOMAIN,www.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.entrust.cn
 DOMAIN,www.gstatic.com
@@ -59227,7 +59197,6 @@ DOMAIN-SUFFIX,kilo1kw.com
 DOMAIN-SUFFIX,kiloai.com
 DOMAIN-SUFFIX,kimberley-technology.com
 DOMAIN-SUFFIX,kimderlite.com
-DOMAIN-SUFFIX,kimi.ai
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,kimi.link
 DOMAIN-SUFFIX,kimi.pub
@@ -67334,7 +67303,6 @@ DOMAIN-SUFFIX,moonjer.com
 DOMAIN-SUFFIX,moonlian.com
 DOMAIN-SUFFIX,moonsec.com
 DOMAIN-SUFFIX,moonsees.com
-DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonstatistics.com
 DOMAIN-SUFFIX,moonton.com
 DOMAIN-SUFFIX,moontonapp.com
@@ -72008,7 +71976,6 @@ DOMAIN-SUFFIX,ouxiangxiezhen.com
 DOMAIN-SUFFIX,ouyada.com
 DOMAIN-SUFFIX,ouyade.com
 DOMAIN-SUFFIX,ouyanghuasi.net
-DOMAIN-SUFFIX,ouyaoxiazai.com
 DOMAIN-SUFFIX,ouyeel.com
 DOMAIN-SUFFIX,ouyingyimin.com
 DOMAIN-SUFFIX,ouyizs.com
@@ -111100,6 +111067,7 @@ DOMAIN-SUFFIX,codehub.cn
 DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,guancha.cn
 DOMAIN-SUFFIX,huolala.cn
+DOMAIN,i.dell.com
 DOMAIN-SUFFIX,oneplus.cn
 DOMAIN-SUFFIX,outlook.cn
 DOMAIN-SUFFIX,rsproxy.cn
@@ -111217,6 +111185,7 @@ IP-CIDR,8.148.128.0/17
 IP-CIDR,8.149.0.0/16
 IP-CIDR,8.150.0.0/20
 IP-CIDR,8.150.16.0/21
+IP-CIDR,8.150.32.0/21
 IP-CIDR,8.150.64.0/23
 IP-CIDR,8.152.0.0/13
 IP-CIDR,8.160.0.0/15
@@ -112150,7 +112119,6 @@ IP-CIDR,103.79.200.0/22
 IP-CIDR,103.79.228.0/23
 IP-CIDR,103.81.4.0/22
 IP-CIDR,103.81.72.0/22
-IP-CIDR,103.81.120.0/24
 IP-CIDR,103.81.123.0/24
 IP-CIDR,103.81.200.0/22
 IP-CIDR,103.82.224.0/22
@@ -113863,6 +113831,7 @@ IP-CIDR,163.142.0.0/16
 IP-CIDR,163.177.0.0/16
 IP-CIDR,163.179.0.0/16
 IP-CIDR,163.204.0.0/16
+IP-CIDR,163.223.72.0/23
 IP-CIDR,163.227.40.0/23
 IP-CIDR,163.228.0.0/16
 IP-CIDR,163.244.246.0/24
@@ -114068,6 +114037,7 @@ IP-CIDR,202.38.64.0/18
 IP-CIDR,202.38.128.0/23
 IP-CIDR,202.38.132.0/23
 IP-CIDR,202.38.134.0/24
+IP-CIDR,202.38.140.0/23
 IP-CIDR,202.38.152.0/23
 IP-CIDR,202.38.164.0/22
 IP-CIDR,202.38.184.0/21
@@ -114427,7 +114397,6 @@ IP-CIDR,203.196.0.0/21
 IP-CIDR,203.202.236.0/23
 IP-CIDR,203.205.88.0/22
 IP-CIDR,203.205.92.0/23
-IP-CIDR,203.205.95.0/24
 IP-CIDR,203.207.64.0/19
 IP-CIDR,203.207.96.0/21
 IP-CIDR,203.207.104.0/22

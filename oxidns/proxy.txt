@@ -7218,6 +7218,7 @@ domain:nic.cz.cc
 domain:nikke.hotcool.tw
 domain:nytimes.map.fastly.net
 domain:old.honeynet.org
+domain:oldmapsonline.org
 domain:one.one.one.one
 domain:online.recoveryversion.org
 domain:onlineyoutube.com
@@ -8490,6 +8491,7 @@ domain:592r.com
 domain:59mvmv.com
 domain:5axis-machining.com
 domain:5beatsbydre.com
+domain:5ch.io
 domain:5ch.net
 domain:5fang.cc
 domain:5lml.com
@@ -9540,6 +9542,7 @@ domain:amazonstudiosguilds.com
 domain:amazontrust.com
 domain:amazonvideo.cc
 domain:amazonvideodirect.com
+domain:amazonwebservices.com
 domain:amazonworkdocs.com
 domain:amc.com
 domain:amcn.com
@@ -14046,6 +14049,7 @@ domain:drdremonsterdre.com
 domain:drdreprobeatssale.com
 domain:dreambmw.ca
 domain:dreamforce.com
+domain:dreamgen.com
 domain:dreammovies.com
 domain:dreamorder.com
 domain:dreamteamfc.com
@@ -15234,6 +15238,7 @@ domain:fans-here.com
 domain:fans17.com
 domain:fans66.tw
 domain:fansking.tw
+domain:fansly.com
 domain:fansnudes.com
 domain:fansone.co
 domain:fanspot.jp
@@ -19194,6 +19199,7 @@ domain:kikdirty.com
 domain:killercb.ru
 domain:kilmeadeandfriends.com
 domain:kimchi.tv
+domain:kimi.ai
 domain:kimogirl.cc
 domain:kimosex.com
 domain:kindgirls.com
@@ -20926,6 +20932,7 @@ domain:monstersexporn.net
 domain:monstershopcheapbeats.net
 domain:monthlyav.com
 domain:moodstocks.com
+domain:moonshot.ai
 domain:moov.hk
 domain:moozporn.com
 domain:morazzia.com
@@ -21637,6 +21644,8 @@ domain:nichepornsites.com
 domain:nichost.ru
 domain:nickscipio.com
 domain:nicky.xxx
+domain:nico.ms
+domain:nicochannel.jp
 domain:nicodic.jp
 domain:nicolepeters.com
 domain:nicomanga.jp
@@ -21892,6 +21901,7 @@ domain:noosferabank.ru
 domain:nordcdn.com
 domain:norsk.mobi
 domain:norton.com
+domain:notegpt.io
 domain:noticias-rt.com
 domain:notimundo.press
 domain:notion-static.com
@@ -21900,6 +21910,7 @@ domain:notion.com
 domain:notion.new
 domain:notion.site
 domain:notionusercontent.com
+domain:novelai.net
 domain:noveltrove.com
 domain:novids.com
 domain:novinhabucetuda.com
@@ -25883,6 +25894,7 @@ domain:takporn.com
 domain:talantix.ru
 domain:talentlens.com
 domain:taleofthenight.com
+domain:talkai.info
 domain:talkingkotlin.com
 domain:talksport.com
 domain:tamilsexvideos.cc
