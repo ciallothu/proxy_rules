@@ -4128,6 +4128,7 @@ domain:oklink.com
 domain:okpool.me
 domain:okx.com
 domain:old-cat.net
+domain:oldmapsonline.org
 domain:olehdtv.com
 domain:olelive.com
 domain:olevod.com
@@ -7218,7 +7219,6 @@ domain:nic.cz.cc
 domain:nikke.hotcool.tw
 domain:nytimes.map.fastly.net
 domain:old.honeynet.org
-domain:oldmapsonline.org
 domain:one.one.one.one
 domain:online.recoveryversion.org
 domain:onlineyoutube.com
