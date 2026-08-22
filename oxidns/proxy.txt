@@ -6835,6 +6835,7 @@ domain:blogspot.sn
 domain:blogspot.tw
 domain:blogspot.ug
 domain:bloomberg.cn
+domain:briarproject.org
 domain:caoporn.us
 domain:casino.williamhill.com
 domain:cbs.ntu.edu.tw
@@ -6850,6 +6851,7 @@ domain:cdn.statically.io
 domain:cdninstagram.com
 domain:certificate.revocationcheck.com
 domain:chat.lmsys.org
+domain:chatgpt.site
 domain:chenshan20042005.wordpress.com
 domain:china.ucanews.com
 domain:chinaview.wordpress.com
@@ -9653,6 +9655,7 @@ domain:ankarazirvesi2018.com
 domain:ankb.ru
 domain:ankiuser.net
 domain:ankiweb.net
+domain:anm.co.uk
 domain:annamilk.com
 domain:annstores.net
 domain:annualpelvicexam.com
@@ -12543,7 +12546,6 @@ domain:charlotte-anime.jp
 domain:charmescorts.com
 domain:charticulator.com
 domain:chatango.com
-domain:chatgpt.site
 domain:chatgptvideo.xyz
 domain:chatgptvideob.buzz
 domain:chatsex.xxx
