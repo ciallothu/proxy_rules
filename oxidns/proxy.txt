@@ -6746,6 +6746,7 @@ domain:api.lbkrs.com
 domain:api.palworldgame.com
 domain:api.pureapk.com
 domain:api.recaptcha.net
+domain:api.shuaiapi.com
 domain:api.steampowered.com
 domain:api5.futunn.com
 domain:app.box.com
@@ -7383,6 +7384,7 @@ domain:www.wan-press.org
 domain:www.websnapr.com
 domain:www.xicons.org
 domain:www.zensur.freerk.com
+domain:x86.fr
 domain:xijie.wordpress.com
 domain:yespornplease.com
 domain:youporn.com
