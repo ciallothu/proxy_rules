@@ -87,6 +87,7 @@ domain:030buy.com
 domain:0rz.tw
 domain:1-apple.com.tw
 domain:10.tt
+domain:1000giri.net
 domain:100ke.org
 domain:10beasts.net
 domain:10conditionsoflove.com
@@ -120,6 +121,7 @@ domain:1989report.hkja.org.hk
 domain:1991way.com
 domain:1998cdp.org
 domain:1bao.org
+domain:1dumb.com
 domain:1eew.com
 domain:1lib.sk
 domain:1mobile.com
@@ -134,6 +136,7 @@ domain:2017.hk
 domain:2021hkcharter.com
 domain:2047.name
 domain:2047.one
+domain:2049bbs.xyz
 domain:21andy.com
 domain:21join.com
 domain:21pron.com
@@ -1816,7 +1819,6 @@ domain:eyevio.jp
 domain:eyny.com
 domain:ezpc.tk
 domain:ezpeer.com
-domain:ezua.com
 domain:f-droid.org
 domain:f8.com
 domain:f95zone.to
@@ -4119,6 +4121,8 @@ domain:onenote.com
 domain:onesto.re
 domain:onestore.co.kr
 domain:onevps.com
+domain:onion.city
+domain:onion.ly
 domain:onlinecha.com
 domain:onlygayvideo.com
 domain:onlytweets.com
@@ -4420,6 +4424,7 @@ domain:postadult.com
 domain:postimg.org
 domain:potato.im
 domain:potatso.com
+domain:potvpn.com
 domain:pourquoi.tw
 domain:power.com
 domain:powerapple.com
@@ -8087,6 +8092,7 @@ full:zeenews-fonts.s3.amazonaws.com
 full:zftksc.cdn-settings.appsflyersdk.com
 full:zftksc.launches.appsflyersdk.com
 domain:01.org
+domain:02weqj32.com
 domain:04647.club
 domain:0cgdklr5sfwj.com
 domain:0plkijj.vip
@@ -14909,6 +14915,7 @@ domain:facebbook.com
 domain:facebboook.com
 domain:facebcook.com
 domain:facebdok.com
+domain:facebgook.com
 domain:facebhook.com
 domain:facebkkk.com
 domain:facebo-ok.com
@@ -14936,6 +14943,7 @@ domain:facebood.com
 domain:facebooe.com
 domain:faceboof.com
 domain:facebooi.com
+domain:facebooik.com
 domain:facebooik.org
 domain:facebooj.com
 domain:facebook-corp.com
@@ -16537,6 +16545,7 @@ domain:grafolio.com
 domain:graias.com
 domain:graiasmovies.com
 domain:grandepornogratis.com
+domain:grandfuckauto.xxx
 domain:graneodin.com.mx
 domain:grannygetsafacial.com
 domain:grannylister.com
@@ -16616,6 +16625,7 @@ domain:guochanw.life
 domain:guruofporn.com
 domain:guysnightlife.com
 domain:gv.com
+domain:gvt2-cn.com
 domain:gvt5.com
 domain:gvt6.com
 domain:gvt7.com
@@ -16633,6 +16643,7 @@ domain:h-top.supertop-100.com
 domain:h-webtoon.com
 domain:h0930.com
 domain:h18ani1.vip
+domain:h264.io
 domain:h2o.ai
 domain:h2porn.com
 domain:habr.com
@@ -16649,6 +16660,7 @@ domain:hacksear.ch
 domain:hackthedrive.com
 domain:hackyourconsole.com
 domain:hadesex.com
+domain:haha888.xyz
 domain:haho.moe
 domain:haicomdc.com
 domain:haicomdc.ru
@@ -19181,6 +19193,7 @@ domain:kinki.co.jp
 domain:kinklive.com
 domain:kinkoid.com
 domain:kinkyfamily.com
+domain:kinkypeepz.com
 domain:kinopoisk.ru
 domain:kinorium.com
 domain:kion.ru
@@ -21545,6 +21558,7 @@ domain:nfsworld.com
 domain:nftables.org
 domain:nftstatic.com
 domain:ngeo.com
+domain:ngfiles.com
 domain:nginx.com
 domain:nginx.org
 domain:nginxconfig.io
@@ -21851,6 +21865,7 @@ domain:noveltrove.com
 domain:novids.com
 domain:novinhabucetuda.com
 domain:novinhagostosa10.com
+domain:novinhasdozapzap.com
 domain:novojoy.com
 domain:novostrong.com
 domain:now-ashare.com
@@ -25843,6 +25858,7 @@ domain:taose.in
 domain:tapnow.ai
 domain:taptotokyo.com
 domain:taqunuhai.vip
+domain:taradinhos.com
 domain:tarantool.io
 domain:tarantoolplus.ru
 domain:targetimg1.com
@@ -26539,6 +26555,7 @@ domain:tubinge.com
 domain:tubitv.com
 domain:tubsexer.com
 domain:tubxporn.com
+domain:tubxporn.xxx
 domain:tufos.com.br
 domain:tug.org
 domain:tuncommercialbank.com
