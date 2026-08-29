@@ -110779,6 +110779,7 @@ full:public.localsend.org
 domain:blackwell-synergy.com
 full:injections.adguard.org
 domain:lcdn-locator.apple.com
+full:mirrorlist.cdn.skk.moe
 keyword:cnki.net
 keyword:wanfangdata
 keyword:pkulaw

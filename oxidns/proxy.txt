@@ -6348,6 +6348,7 @@ domain:wqyd.org
 domain:wr.pvp.net
 domain:wrchina.org
 domain:wretch.cc
+domain:write.as
 domain:writesonic.com
 domain:wsj.com
 domain:wsj.net
@@ -7304,7 +7305,6 @@ domain:withgoogle.com
 domain:withyoutube.com
 domain:wo3ttt.wordpress.com
 domain:wowporn.com
-domain:write.as
 domain:www.ajsands.com
 domain:www.antd.org
 domain:www.aolnews.com
