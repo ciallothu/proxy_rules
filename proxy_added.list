@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,duolinguo.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,glavo.site
+DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -52,7 +53,6 @@ DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,www.schwab.com
-DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-KEYWORD,alpine
 DOMAIN-KEYWORD,bybit

@@ -27,6 +27,7 @@ domain:dl.google.com
 domain:duolinguo.com
 domain:ggpht.com
 domain:glavo.site
+domain:golang.org
 domain:google.com
 domain:googleapis.com
 domain:googleusercontent.com
