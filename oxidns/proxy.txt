@@ -7304,6 +7304,7 @@ domain:withgoogle.com
 domain:withyoutube.com
 domain:wo3ttt.wordpress.com
 domain:wowporn.com
+domain:write.as
 domain:www.ajsands.com
 domain:www.antd.org
 domain:www.aolnews.com
@@ -23958,6 +23959,7 @@ domain:registeridm.com
 domain:reiporno.com
 domain:relateiq.com
 domain:remirepo.net
+domain:remna.st
 domain:rencapbank.ru
 domain:renchead.com
 domain:rencredit.ru
