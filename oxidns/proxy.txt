@@ -1699,6 +1699,7 @@ domain:edx-cdn.org
 domain:eesti.ee
 domain:eevpn.com
 domain:efcc.org.hk
+domain:effers.com
 domain:efksoft.com
 domain:efreenews.com
 domain:efukt.com
@@ -2099,6 +2100,7 @@ domain:fril.jp
 domain:fring.com
 domain:fringenetwork.com
 domain:from-pr.com
+domain:from-sd.com
 domain:fromchinatousa.net
 domain:frommel.net
 domain:frontlinedefenders.org
@@ -3474,6 +3476,7 @@ domain:manhuaren.com
 domain:maniash.com
 domain:manicur4ik.ru
 domain:mansion.com
+domain:mansionpoker.com
 domain:manta.com
 domain:manus.im
 domain:manyvoices.news
@@ -5224,6 +5227,7 @@ domain:surfeasy.com
 domain:surfeasy.com.au
 domain:surfshark.com
 domain:surge.run
+domain:suroot.com
 domain:surrenderat20.net
 domain:suyangg.com
 domain:suyingtv.com
@@ -5655,6 +5659,7 @@ domain:treemall.com.tw
 domain:trello.com
 domain:trendsmap.com
 domain:trialofccp.org
+domain:trickip.org
 domain:trimondi.de
 domain:tronscan.org
 domain:trouw.nl
@@ -6170,6 +6175,7 @@ domain:washingtonpost.com
 domain:washingtontimes.com
 domain:watch8x.com
 domain:watchinese.com
+domain:watchmygf.net
 domain:watchout.tw
 domain:wattpad.com
 domain:wav.tv
@@ -15099,6 +15105,7 @@ domain:facecbook.com
 domain:facecbook.org
 domain:facecook.com
 domain:facecook.org
+domain:facedbook.com
 domain:faceebok.com
 domain:faceebook.com
 domain:faceebot.com
@@ -16444,6 +16451,7 @@ domain:gogo-load.com
 domain:gogoanime.vc
 domain:gogoanime.wiki
 domain:gogoanime3.co
+domain:gogocdn.net
 domain:gogole.com
 domain:gogotaku.info
 domain:gohentai.net
@@ -22643,6 +22651,7 @@ domain:paypal-status.com
 domain:paypal-support.com
 domain:paypal-survey.com
 domain:paypal-survey.org
+domain:paypal-team.com
 domain:paypal-viewpoints.net
 domain:paypal.ca
 domain:paypal.com
@@ -24994,6 +25003,7 @@ domain:site.com
 domain:sitepoint.com
 domain:siterips.org
 domain:siteripz.com
+domain:siteripz.net
 domain:situero.com
 domain:six9dy.pw
 domain:sixte.st
