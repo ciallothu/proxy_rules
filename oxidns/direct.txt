@@ -202,7 +202,6 @@ domain:360aiyi.com
 domain:360buy.com
 domain:360buyimg.com
 domain:360buyinternational.com
-domain:360chou.com
 domain:360daikuan.com
 domain:360doc.com
 domain:360huzhubao.com
