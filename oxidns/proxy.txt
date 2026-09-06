@@ -6692,6 +6692,8 @@ domain:developer.apple.com
 domain:login.microsoftonline.com
 domain:testflight.apple.com
 domain:voice.telephony.goog
+domain:123av.com
+domain:123av.me
 domain:1e100.net
 domain:91porn.com
 domain:91porny.com
@@ -7123,6 +7125,7 @@ domain:googlezip.net
 domain:greatfire.us7.list-manage.com
 domain:gsp.target.com
 domain:help.byspotify.com
+domain:hentai.tv
 domain:hk.gradconnection.com
 domain:hk.jiepang.com
 domain:hka8964.wordpress.com
@@ -7217,6 +7220,8 @@ domain:raw.githack.com
 domain:rawgithub.com
 domain:rcam.target.com
 domain:relay.firefox.com
+domain:roc-taiwan.org
+domain:roushuwo.com
 domain:rtm.tnt-ea.com
 domain:s.yimg.com
 domain:s3-ap-northeast-1.amazonaws.com
@@ -7248,8 +7253,11 @@ domain:store.steampowered.com
 domain:suche.gmx.net
 domain:sujiatun.wordpress.com
 domain:sunporno.com
+domain:supjav.com
 domain:support.futunn.com
 domain:sydney.bing.com
+domain:taiav.com
+domain:taiwanembassy.org
 domain:tarr.uspto.gov
 domain:telegram.dog
 domain:telegram.me
@@ -7315,6 +7323,7 @@ domain:withgoogle.com
 domain:withyoutube.com
 domain:wo3ttt.wordpress.com
 domain:wowporn.com
+domain:wtfpass.com
 domain:www.ajsands.com
 domain:www.antd.org
 domain:www.aolnews.com
@@ -16897,7 +16906,6 @@ domain:hentai.name
 domain:hentai.pink
 domain:hentai.pro
 domain:hentai.toys
-domain:hentai.tv
 domain:hentai0.com
 domain:hentai01.com
 domain:hentai2.net
@@ -25696,7 +25704,6 @@ domain:supersrv.de
 domain:superstation.com.tw
 domain:supertop.co
 domain:superuser.com
-domain:supjav.com
 domain:supplybestjerseys.com
 domain:support-uber.com
 domain:supportfacebook.com
@@ -25840,7 +25847,6 @@ domain:tacamateurs.com
 domain:tachusz.xyz
 domain:tagapie.com.tw
 domain:tagbank.ru
-domain:taiav.com
 domain:taiko.xyz
 domain:tail-f.com
 domain:tailf.com
@@ -29449,7 +29455,6 @@ domain:muku.tv
 domain:ny1.com
 domain:one.com
 domain:spot.im
-domain:123av.me
 domain:520cc.cc
 domain:7mmtv.me
 domain:airav.io
@@ -29480,7 +29485,6 @@ domain:vice.com
 domain:whoer.cc
 domain:xkcd.com
 domain:zenn.dev
-domain:123av.com
 domain:1anime.me
 domain:bblmw.com
 domain:bgp.tools
