@@ -93,6 +93,8 @@ domain:10beasts.net
 domain:10conditionsoflove.com
 domain:10musume.com
 domain:111666.best
+domain:123av.com
+domain:123av.me
 domain:123rf.com
 domain:12vpn.com
 domain:12vpn.net
@@ -2550,6 +2552,7 @@ domain:helpster.de
 domain:helpzhuling.org
 domain:hembed.com
 domain:hentai.to
+domain:hentai.tv
 domain:hentaitube.tv
 domain:hentaivideoworld.com
 domain:heqinglian.net
@@ -4697,6 +4700,7 @@ domain:roadshow.hk
 domain:roblox.com
 domain:roboforex.com
 domain:robustnessiskey.com
+domain:roc-taiwan.org
 domain:rocket-inc.net
 domain:rocket.chat
 domain:rocketbbs.com
@@ -4712,6 +4716,7 @@ domain:rosechina.net
 domain:rotten.com
 domain:rou.video
 domain:roucdn.link
+domain:roushuwo.com
 domain:rpglogs.com
 domain:rsdlmonitor.com
 domain:rsf-chinese.org
@@ -5222,6 +5227,7 @@ domain:supermariorun.com
 domain:superpages.com
 domain:supervpn.net
 domain:superzooi.com
+domain:supjav.com
 domain:suppig.net
 domain:supremecourt.gov
 domain:suprememastertv.com
@@ -5273,6 +5279,7 @@ domain:tafm.org
 domain:tagwa.org.au
 domain:tagwalk.com
 domain:tahr.org.tw
+domain:taiav.com
 domain:tails.net
 domain:taipeisociety.org
 domain:taipeitimes.com
@@ -5282,6 +5289,7 @@ domain:taiwanbible.com
 domain:taiwancon.com
 domain:taiwandaily.net
 domain:taiwandc.org
+domain:taiwanembassy.org
 domain:taiwanhot.net
 domain:taiwanjustice.com
 domain:taiwanjustice.net
@@ -6364,6 +6372,7 @@ domain:wsj.com
 domain:wsj.net
 domain:wsjhk.com
 domain:wtbn.org
+domain:wtfpass.com
 domain:wtfpeople.com
 domain:wuerkaixi.com
 domain:wufafangwen.com
@@ -6692,8 +6701,6 @@ domain:developer.apple.com
 domain:login.microsoftonline.com
 domain:testflight.apple.com
 domain:voice.telephony.goog
-domain:123av.com
-domain:123av.me
 domain:1e100.net
 domain:91porn.com
 domain:91porny.com
@@ -7125,7 +7132,6 @@ domain:googlezip.net
 domain:greatfire.us7.list-manage.com
 domain:gsp.target.com
 domain:help.byspotify.com
-domain:hentai.tv
 domain:hk.gradconnection.com
 domain:hk.jiepang.com
 domain:hka8964.wordpress.com
@@ -7220,8 +7226,6 @@ domain:raw.githack.com
 domain:rawgithub.com
 domain:rcam.target.com
 domain:relay.firefox.com
-domain:roc-taiwan.org
-domain:roushuwo.com
 domain:rtm.tnt-ea.com
 domain:s.yimg.com
 domain:s3-ap-northeast-1.amazonaws.com
@@ -7253,11 +7257,8 @@ domain:store.steampowered.com
 domain:suche.gmx.net
 domain:sujiatun.wordpress.com
 domain:sunporno.com
-domain:supjav.com
 domain:support.futunn.com
 domain:sydney.bing.com
-domain:taiav.com
-domain:taiwanembassy.org
 domain:tarr.uspto.gov
 domain:telegram.dog
 domain:telegram.me
@@ -7323,7 +7324,6 @@ domain:withgoogle.com
 domain:withyoutube.com
 domain:wo3ttt.wordpress.com
 domain:wowporn.com
-domain:wtfpass.com
 domain:www.ajsands.com
 domain:www.antd.org
 domain:www.aolnews.com
@@ -7629,6 +7629,7 @@ full:img-prod-cms-rt-microsoft-com.akamaized.net
 full:img-s-msn-com.akamaized.net
 full:impala-media-production.s3.amazonaws.com
 full:imperial.insendi.com
+full:lastfm-img.freetls.fastly.net
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
 full:lgcscc-hamivideo2.cdn.hinet.net
