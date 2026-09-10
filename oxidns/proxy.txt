@@ -8296,7 +8296,6 @@ domain:21heise360dh.cc
 domain:21hub.com
 domain:21naturals.com
 domain:21vv.cc
-domain:22112211.xyz
 domain:2371tom.com
 domain:24h.tv
 domain:24hjav.com
@@ -11994,6 +11993,7 @@ domain:brightcove.com
 domain:brightcove.net
 domain:brightcove.services
 domain:brightcovecdn.com
+domain:brightline.tv
 domain:brilliant.org
 domain:britsexcash.com
 domain:brni.com
