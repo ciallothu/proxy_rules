@@ -32205,6 +32205,7 @@ domain:dolphin-browser.com
 domain:dolphin-global.com
 domain:dolphin.com
 domain:dolphincube.com
+domain:dolphinpaper.com
 domain:dolphinphp.com
 domain:dom-3d.net
 domain:domabio.com
@@ -37949,6 +37950,7 @@ domain:fujiangames.com
 domain:fujianrc.com
 domain:fujiansme.com
 domain:fujianyinruan.com
+domain:fujincenter.com
 domain:fujinjiazheng.com
 domain:fujinotrade.com
 domain:fujutec.com
@@ -95367,6 +95369,7 @@ domain:wonflavour.com
 domain:wonfulplaza.com
 domain:wongcw.com
 domain:wongpeace.com
+domain:woniu.com
 domain:woniu8.com
 domain:woniubaoxian.com
 domain:woniucloud.com
