@@ -8956,7 +8956,6 @@ domain:515ppt.com
 domain:51643.com
 domain:51656582.com
 domain:51658042.com
-domain:5166.info
 domain:51661182.com
 domain:5166ys.com
 domain:516ly.com
@@ -32205,7 +32204,6 @@ domain:dolphin-browser.com
 domain:dolphin-global.com
 domain:dolphin.com
 domain:dolphincube.com
-domain:dolphinpaper.com
 domain:dolphinphp.com
 domain:dom-3d.net
 domain:domabio.com
@@ -83895,7 +83893,6 @@ domain:spsb114.com
 domain:spsicloudport.com
 domain:spsisctgroup.com
 domain:spsisncl.com
-domain:spst2.com
 domain:spsy.org
 domain:sptcc.com
 domain:sptccn.com
@@ -95369,7 +95366,6 @@ domain:wonflavour.com
 domain:wonfulplaza.com
 domain:wongcw.com
 domain:wongpeace.com
-domain:woniu.com
 domain:woniu8.com
 domain:woniubaoxian.com
 domain:woniucloud.com
@@ -97535,6 +97531,7 @@ domain:xiaodigu.com
 domain:xiaoding110.com
 domain:xiaodingchui.com
 domain:xiaodiyouxi.com
+domain:xiaodongrui.com
 domain:xiaodongxier.com
 domain:xiaodoubi.com
 domain:xiaodoukj.com

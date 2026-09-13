@@ -1535,7 +1535,6 @@ domain:dmm.com
 domain:dns-stuff.com
 domain:dns.sb
 domain:dns04.com
-domain:dns05.com
 domain:dns1.us
 domain:dns2.us
 domain:dns2go.com
@@ -1887,6 +1886,7 @@ domain:fanswong.com
 domain:fantv.hk
 domain:fanyue.info
 domain:faproxy.com
+domain:faqserv.com
 domain:farwestchina.com
 domain:fast.com
 domain:fastestvpn.com
@@ -4554,6 +4554,7 @@ domain:qq.co.za
 domain:qstatus.com
 domain:qtrac.eu
 domain:qtweeter.com
+domain:quakemachinex.com
 domain:quannengshen.org
 domain:quantumbooter.net
 domain:quay.io
@@ -7208,7 +7209,6 @@ domain:pornstarclub.com
 domain:porntvblog.com
 domain:posts.careerengine.us
 domain:purpose.nike.com
-domain:quakemachinex.com
 domain:quote.longbridge.global
 domain:raw.githack.com
 domain:rawgithub.com
@@ -15393,7 +15393,6 @@ domain:filmesporno.com.br
 domain:filmesporno.net.br
 domain:filmespornos.net
 domain:filmporno.it
-domain:filmsexeporno.com
 domain:filtercams.com
 domain:fimfiction.net
 domain:finalcutpro.com
