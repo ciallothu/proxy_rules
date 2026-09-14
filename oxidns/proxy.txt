@@ -1886,7 +1886,6 @@ domain:fanswong.com
 domain:fantv.hk
 domain:fanyue.info
 domain:faproxy.com
-domain:faqserv.com
 domain:farwestchina.com
 domain:fast.com
 domain:fastestvpn.com
