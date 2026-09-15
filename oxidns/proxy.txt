@@ -29392,6 +29392,10 @@ domain:zzdh808.com
 domain:zzdh99.com
 domain:zzgays.com
 domain:zzycdz.com
+domain:stripe.dev
+domain:stripe.events
+domain:stripe.global
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 domain:gemini.google
 full:openrouter.ai
 full:api.github.com
