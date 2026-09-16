@@ -7696,6 +7696,7 @@ full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
 full:osu.ppy.sh
 full:p-events-delivery.akamaized.net
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 full:p16-tiktokcdn-com.akamaized.net
 full:packages.microsoft.com
 full:paper-attachments.s3.amazonaws.com
@@ -25621,6 +25622,9 @@ domain:strikinglycdn.com
 domain:strip-poker.xxx
 domain:stripcamfun.com
 domain:stripe-terminal-local-reader.net
+domain:stripe.dev
+domain:stripe.events
+domain:stripe.global
 domain:stripe.network
 domain:stripecdn.com
 domain:stripparadise.com
@@ -29392,10 +29396,6 @@ domain:zzdh808.com
 domain:zzdh99.com
 domain:zzgays.com
 domain:zzycdz.com
-domain:stripe.dev
-domain:stripe.events
-domain:stripe.global
-full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 domain:gemini.google
 full:openrouter.ai
 full:api.github.com
